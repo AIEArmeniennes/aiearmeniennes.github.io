@@ -25,13 +25,15 @@ description: >- # this means to ignore newlines until "baseurl:"
   information about the AIEA, its executive, its membership and its activities.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://aiearmeniennes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tla
-github_username:  tla
+facebook_username: AIEAArmenian
+github_username:  AIEArmeniennes
+date_format: "%d %B %Y"
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-polyglot
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -41,7 +43,8 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - oldsite/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
