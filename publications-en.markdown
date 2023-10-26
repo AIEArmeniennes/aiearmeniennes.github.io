@@ -34,71 +34,72 @@ These volumes are to be published in the series *Handbuch der Orientalistik -- H
 | 1993 | Henning Lehmann and Jos J.S. Weitenberg (eds.), Armenian Texts, Tasks and Tools (Acta Jutlandica, LXIX:1; Humanities Series, 68), Aarhus, Aarhus University Press, 1993.                                                                                                                                                                                                                      |
 | 1993 | Christoph Burchard (ed.), Armenia and the Bible (University of Pennsylvania Armenian Texts and Studies, 12)                                                                                                                                                                                                                                                                                   |
 | 1992 | Bernard Coulie, Répertoire des catalogues et des bibliothèques de manuscrits arméniens (Corpus Christianorum) Turnhout, Brepols, 1992. Voir les compléments dans Le Muséon, 108 (1995), p. 115-130; 113 (2000), p. 149-176; 117 (2004), p. 473-496.<br> <br>Liste des sigles utilisés pour désigner les manuscrits arméniens: liste des sigles en format pdf                                  |
-| 1986 | Maurice Leroy et Francine Mawet (éds.), La place de l’arménien dans les langues indo-européennes (Fonds René Draguet, Académie Royale de Belgique, Classe des Lettres, 3) Leuven, Peeters, 1986.                                                                                                                                                                                              |
+| 1986 | Maurice Leroy et Francine Mawet (éds.), La place de l’arménien dans les langues indo-européennes (Fonds René Draguet, Académie Royale de Belgique, Classe des Lettres, 3) Leuven, Peeters, 1986.   |
+
 ## 3. Newsletter of the AIEA
 
 Editor of the AIEA Newsletter: Prof. [Marco Bais](marbais@hotmail.com)
 
 All AIEA members can send the editor any information (activities, awards, personalia, publications, exhibitions) that they would like in the Newsletter.
 
-#### Downloadable pdf files
+### Downloadable pdf files
 
-- [Newsletter n°1](https://sites.uclouvain.be/aiea/publications/aieanewsletter1-compressed/)
-- [Newsletter n°2](https://sites.uclouvain.be/aiea/publications/aieanewsletter2-compressed/)
-- [Newsletter n°3](https://sites.uclouvain.be/aiea/publications/aieanewsletter3-compressed/)
-- [Newsletter n°4](https://sites.uclouvain.be/aiea/publications/aieanewsletter4-compressed/)
-- [Newsletter n°5](https://sites.uclouvain.be/aiea/publications/aieanewsletter5-compressed/)
-- [Newsletter n°6](https://sites.uclouvain.be/aiea/publications/aieanewsletter6-compressed/)
-- [Newsletter n°7](https://sites.uclouvain.be/aiea/publications/aieanewsletter7-compressed/)
-- [Newsletter n°8](https://sites.uclouvain.be/aiea/publications/aieanewsletter8-compressed/)
-- [Newsletter n°9](https://sites.uclouvain.be/aiea/publications/aieanewsletter9-compressed/)
-- [Newsletter n°10](https://sites.uclouvain.be/aiea/publications/aieanewsletter10-compressed/)
-- [Newsletter n°11](https://sites.uclouvain.be/aiea/publications/aieanewsletter11-compressed/)
-- [Newsletter n°12](https://sites.uclouvain.be/aiea/publications/aieanewsletter12-compressed/)
-- [Newsletter n°13](https://sites.uclouvain.be/aiea/publications/aieanewsletter13-compressed/)
-- [Newsletter n°14](https://sites.uclouvain.be/aiea/publications/aieanewsletter14-compressed/)
-- [Newsletter n°15](https://sites.uclouvain.be/aiea/publications/aieanewsletter15-compressed/)
-- [Newsletter n°16](https://sites.uclouvain.be/aiea/publications/aieanewsletter16-compressed/)
-- [Newsletter n°17](https://sites.uclouvain.be/aiea/publications/aieanewsletter17-compressed/)
-- [Newsletter n°18](https://sites.uclouvain.be/aiea/publications/aieanewsletter18-compressed/)
-- [Newsletter n°19](https://sites.uclouvain.be/aiea/publications/aieanewsletter19-compressed/)
-- [Newsletter n°20](https://sites.uclouvain.be/aiea/publications/aieanewsletter20-compressed/)
-- [Newsletter n°21](https://sites.uclouvain.be/aiea/publications/aieanewsletter21-compressed/)
-- [Newsletter n°22](https://sites.uclouvain.be/aiea/publications/aieanewsletter22-compressed/)
-- [Newsletter n°23](https://sites.uclouvain.be/aiea/publications/aieanewsletter23-compressed/)
-- [Newsletter n°24](https://sites.uclouvain.be/aiea/publications/aieanewsletter24-compressed/)
-- [Newsletter n°25](https://sites.uclouvain.be/aiea/publications/aieanewsletter25-compressed/)
-- [Newsletter n°26](https://sites.uclouvain.be/aiea/publications/aieanewsletter26-compressed/)
-- [Newsletter n°27](https://sites.uclouvain.be/aiea/publications/aieanewsletter27-compressed/)
-- [Newsletter n°28](https://sites.uclouvain.be/aiea/publications/aieanewsletter28-compressed/)
-- [Newsletter n°29](https://sites.uclouvain.be/aiea/publications/aieanewsletter29-compressed/)
-- [Newsletter n°30](https://sites.uclouvain.be/aiea/publications/aieanewsletter30-compressed/)
-  Newsletter n°31
-  Newsletter n°32
-  Newsletter n°33
-  Newsletter n°34
-  Newsletter n°35
-  Newsletter n°36
-  Newsletter n°37
-  Newsletter n°38
-  Newsletter n°39
-  Newsletter n°40
-  Newsletter n°41
-  Newsletter n°42
-  Newsletter n°43
-  Newsletter n°44
-  Newsletter n°45
-  Newsletter n°46-47
-  Newsletter n°48-49
-- [Newsletter n°50](https://sites.uclouvain.be/aiea/publications/aieanewsletter50/)
-- [Newsletter n°51](https://sites.uclouvain.be/aiea/publications/newsletter-nr-51/)
-- [Newsletter n°52](https://sites.uclouvain.be/aiea/publications/newsletter-n52/)
-- [Newsletter n°53](https://sites.uclouvain.be/aiea/wp-content/uploads/2014/03/AIEA_Newsletter_53.pdf)
-- [Newsletter n°54](https://sites.uclouvain.be/aiea/wp-content/uploads/2014/03/AIEA_Newsletter_54-compressed.pdf)
-- [Newsletter n°55](https://sites.uclouvain.be/aiea/wp-content/uploads/2021/07/Newsletter-n°55.pdf)
-- [Newsletter n°56](https://sites.uclouvain.be/aiea/wp-content/uploads/2021/08/AIEA_Newsletter_56-compressed.pdf)
+- [Newsletter n°1](public/newsletter/aiea_newsletter_01.pdf)
+- [Newsletter n°2](public/newsletter/aiea_newsletter_02.pdf)
+- [Newsletter n°3](public/newsletter/aiea_newsletter_03.pdf)
+- [Newsletter n°4](public/newsletter/aiea_newsletter_04.pdf)
+- [Newsletter n°5](public/newsletter/aiea_newsletter_05.pdf)
+- [Newsletter n°6](public/newsletter/aiea_newsletter_06.pdf)
+- [Newsletter n°7](public/newsletter/aiea_newsletter_07.pdf)
+- [Newsletter n°8](public/newsletter/aiea_newsletter_08.pdf)
+- [Newsletter n°9](public/newsletter/aiea_newsletter_09.pdf)
+- [Newsletter n°10](public/newsletter/aiea_newsletter_10.pdf)
+- [Newsletter n°11](public/newsletter/aiea_newsletter_11.pdf)
+- [Newsletter n°12](public/newsletter/aiea_newsletter_12.pdf)
+- [Newsletter n°13](public/newsletter/aiea_newsletter_13.pdf)
+- [Newsletter n°14](public/newsletter/aiea_newsletter_14.pdf)
+- [Newsletter n°15](public/newsletter/aiea_newsletter_15.pdf)
+- [Newsletter n°16](public/newsletter/aiea_newsletter_16.pdf)
+- [Newsletter n°17](public/newsletter/aiea_newsletter_17.pdf)
+- [Newsletter n°18](public/newsletter/aiea_newsletter_18.pdf)
+- [Newsletter n°19](public/newsletter/aiea_newsletter_19.pdf)
+- [Newsletter n°20](public/newsletter/aiea_newsletter_20.pdf)
+- [Newsletter n°21](public/newsletter/aiea_newsletter_21.pdf)
+- [Newsletter n°22](public/newsletter/aiea_newsletter_22.pdf)
+- [Newsletter n°23](public/newsletter/aiea_newsletter_23.pdf)
+- [Newsletter n°24](public/newsletter/aiea_newsletter_24.pdf)
+- [Newsletter n°25](public/newsletter/aiea_newsletter_25.pdf)
+- [Newsletter n°26](public/newsletter/aiea_newsletter_26.pdf)
+- [Newsletter n°27](public/newsletter/aiea_newsletter_27.pdf)
+- [Newsletter n°28](public/newsletter/aiea_newsletter_28.pdf)
+- [Newsletter n°29](public/newsletter/aiea_newsletter_29.pdf)
+- [Newsletter n°30](public/newsletter/aiea_newsletter_30.pdf)
+- Newsletter n°31
+- Newsletter n°32
+- Newsletter n°33
+- Newsletter n°34
+- Newsletter n°35
+- Newsletter n°36
+- Newsletter n°37
+- Newsletter n°38
+- Newsletter n°39
+- Newsletter n°40
+- Newsletter n°41
+- Newsletter n°42
+- Newsletter n°43
+- Newsletter n°44
+- Newsletter n°45
+- Newsletter n°46-47
+- Newsletter n°48-49
+- [Newsletter n°50](public/newsletter/aiea_newsletter_50.pdf)
+- [Newsletter n°51](public/newsletter/aiea_newsletter_51.pdf)
+- [Newsletter n°52](public/newsletter/aiea_newsletter_52.pdf)
+- [Newsletter n°53](public/newsletter/aiea_newsletter_53.pdf)
+- [Newsletter n°54](public/newsletter/aiea_newsletter_54.pdf)
+- [Newsletter n°55](public/newsletter/aiea_newsletter_55.pdf)
+- [Newsletter n°56](public/newsletter/aiea_newsletter_56.pdf)
 
-## 4. Liste de diffusion électronique
+## 4. Email distribution list
 
 Subscription to the mailing list:
 [http://www.telf.com/mailman/listinfo/aiea/telf.com/](http://www.telf.com/mailman/listinfo/aiea_telf.com/)
