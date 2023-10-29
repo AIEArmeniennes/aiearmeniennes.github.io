@@ -1,13 +1,13 @@
 ---
 layout: page
-lang: fr
-title: Affiliation
+lang: hy
+title: Անդամակցություն
 permalink: /membership/
 ---
 
-# Affiliation
+# Անդամակցություն
 
-## Catégories de membres
+## Անդամակցության կատեգորիաները
 
 L'AIEA comprend trois catégories de membres :
 
@@ -15,7 +15,7 @@ L'AIEA comprend trois catégories de membres :
 - les membres effectifs : dont l’arménologie constitue l’activité principale (professeurs, chercheurs);
 - les membres associés : dont l’arménologie ne constitue pas l’activité principale mais qui ont un intérêt pour les études et les questions arméniennes.
 
-## Comment devenir membre ?
+## Անդամ ինչո՞ւ դառնալ։
 
 Pour devenir membre de l’AIEA, il faut en adresser la demande (lettre de motivation et curriculum vitae) au secrétariat de l’association, en précisant la catégorie d’affiliation. Les demandes des membres effectifs et des membres associés doivent être introduites par deux membres effectifs de l’AIEA. Le Comité peut lui-même proposer la candidature d’un nouveau membre.
 
@@ -25,7 +25,7 @@ Une cotisation annuelle doit être versée, à un compte indiqué à chaque memb
 
 Lors de l’Assemblée générale de l’AIEA (Oxford, 11 août 2017), il a été décidé de proposer une réduction de 50% du montant de la cotisation pour les membres résidant dans les pays inclus dans la liste des pays OCDE, p.ex. Arménie, Géorgie, Egypte, Ukraine, Argentine, Belarus, Liban, Turquie, etc. Vérifiez si vous êtes éligible à la réduction avant de payer la cotisation: [Liste OECD](https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/DAC-List-ODA-Recipients-for-reporting-2021-flows.pdf).
 
-## Cotisations
+## Անդամավճարներ
 
 Montant des cotisations (pour 1 an):
 

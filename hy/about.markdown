@@ -1,11 +1,11 @@
 ---
 layout: page
-lang: fr
-title: L'AIEA
+lang: hy
+title: ՀՈՄԸ-ն
 permalink: /about/
 ---
 
-## Qu’est-ce que l’AIEA?
+## ՀՈՄԸ-ն ի՞նչ է։
 
 L’AIEA (Association Internationale des Etudes Arméniennes) est une société savante pour la promotion des études arméniennes. Elle rassemble des membres de nombreux pays, surtout européens, mais aussi de l’Arménie, du Proche-Orient, d’Amérique du nord et du sud. Elle est membre de l’Union Internationale des Etudes Orientales et Asiatiques (UIEOA).
 
@@ -13,11 +13,11 @@ L’AIEA (Association Internationale des Etudes Arméniennes) est une société 
 
 |        |        | 
 |--------|--------|
-| Présidente<br><br><br><br><br>   |  Prof. Valentina Calzolari<br>Centre de recherches arménologiques<br>Université de Genève<br>22, Boulevard des Philosophes, CH-1211 Genève 4 (Suisse)<br>valentina.calzolari@unige.ch  |
-| Secrétaire<br><br><br><br><br>   |  Prof. Tara Andrews <br>Universität Wien<br>Institut für Geschichte<br>Universitätsring, 1, 1010 WIEN (Austria)<br>tara.andrews@univie.ac.at  |
-| Trésorier<br><br><br><br><br>   |  Dr. Irene Tinti<br>Dipartimento di Civiltà e Forme del Sapere<br>Università di Pisa<br>Italia<br>irene.tinti.82@gmail.com |
-| Editeur du Newsletter<br><br><br><br>     |  Prof. Marco Bais<br>Pontificio Istituto Orientale<br>Piazza S. Maria Maggiore, 7<br>I-00185 Roma (Italie)<br>marbais@hotmail.com |
-| Membres du Comité     |  Prof. Marco Bais, Dr. Emilio Bonfiglio, Prof. Bernard Coulie, Prof. Nazénie Garibian, Prof. Robin Meier |
+| Նախագահ<br><br><br><br><br>   |  Պրոֆ. Վալենտինա Կալզոլարի<br>Centre de recherches arménologiques<br>Université de Genève<br>22, Boulevard des Philosophes, CH-1211 Genève 4 (Suisse)<br>valentina.calzolari@unige.ch  |
+| Քարտուղար<br><br><br><br><br>   |  Պրոֆ. Տարա Ենդրիուս <br>Universität Wien<br>Institut für Geschichte<br>Universitätsring, 1, 1010 WIEN (Austria)<br>tara.andrews@univie.ac.at  |
+| Գանձապահ<br><br><br><br><br>   |  Դոկտ. Իրենե Տինտի<br>Dipartimento di Civiltà e Forme del Sapere<br>Università di Pisa<br>Italia<br>irene.tinti.82@gmail.com |
+| Տեղեկագրի խմբագիր<br><br><br><br>     |  Պրոֆ. Մարկո Բայիս<br>Pontificio Istituto Orientale<br>Piazza S. Maria Maggiore, 7<br>I-00185 Roma (Italie)<br>marbais@hotmail.com |
+| Կոմիտեյի անդամներ     |  Դոկտ. Եմիլիո Բոնֆիլիո, Պրոֆ. Բերնար Կուլի, Պրոֆ. Նազենի Ղարիբյան, Պրոֆ. Ռոբին Մայեր |
 
 Responsable de la liste de diffusion aiea@telf.com : Père Garabed Telfeyan fr.garabed@telf.com
 

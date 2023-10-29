@@ -1,11 +1,11 @@
 ---
 layout: page
 lang: fr
-title: Publications
+title: Հրապարակումներ
 permalink: /publications/
 ---
 
-# Publications
+# Հրապարակումներ
 
 
 ## 1. Armenian Studies 2000
