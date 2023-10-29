@@ -18,15 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Association Internationale des Études Arméniennes
-description: >- # this means to ignore newlines until "baseurl:"
-  Website of the Association Internationale des Études Arméniennes. News and
-  information about the AIEA, its executive, its membership and its activities.
+title: 
+  en: International Association of Armenian Studies
+  fr: Association Internationale des Études Arméniennes
+  hy: Հայկական Ուսումներու Միջազգային Ընկերակցութիւն
+author:
+  en: AIEA Secretary
+  fr: Secrétaire AIEA
+  hy: Քարտուղար ՀՈՄԸ-ի
+description: 
+  en: Website of the Association Internationale des Études Arméniennes. News and information about the AIEA, its executive, its membership and its activities.
+  fr: Site de l'Association Internationale des Études Arméniennes. Nouvelles et informations sur l'AIEA, son exécutif, ses membres et ses activités.
+  hy: Հայկական ​​ուսումնասիրությունի միջազգային ընկերակցությունի կայք։ Նորություններ և տեղեկատվություն ՀՈՄԸ-ի, նրա գործադիրի, անդամների և գործունեության մասին։
+email: info@aiearmeniennes.org
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://aiearmeniennes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.aiearmeniennes.org" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: AIEAArmenian
-github_username:  AIEArmeniennes
-
+github_username: AIEArmeniennes
 
 # Build settings
 theme: minima
@@ -40,6 +48,8 @@ languages: ["en", "fr", "hy"]
 langsep: " | "
 default_lang: "en"
 exclude_from_localization: ["assets", "public"]
+parallel_localization: true
+lang_from_path: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
