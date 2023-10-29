@@ -5,9 +5,6 @@ title: Publications
 permalink: /publications/
 ---
 
-# Publications
-
-
 ## 1. Armenian Studies 2000
 
 The AIEA has launched a programme to publish textbooks on Armenian studies, covering the main disciplines of Armenology: philology, linguistics, history, history of ideas, literature and history of art.          

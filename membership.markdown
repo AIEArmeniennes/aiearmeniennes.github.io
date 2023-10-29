@@ -5,8 +5,6 @@ title: Membership
 permalink: /membership/
 ---
 
-# Membership
-
 ## Categories of membership
 
 The AIEA has three categories of membership:

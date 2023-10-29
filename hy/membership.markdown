@@ -5,8 +5,6 @@ title: Անդամակցություն
 permalink: /membership/
 ---
 
-# Անդամակցություն
-
 ## Անդամակցության կատեգորիաները
 
 L'AIEA comprend trois catégories de membres :

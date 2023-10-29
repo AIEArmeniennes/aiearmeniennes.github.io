@@ -1,12 +1,9 @@
 ---
 layout: page
-lang: fr
+lang: hy
 title: Հրապարակումներ
 permalink: /publications/
 ---
-
-# Հրապարակումներ
-
 
 ## 1. Armenian Studies 2000
 

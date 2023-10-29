@@ -18,10 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 
-  en: International Association of Armenian Studies
-  fr: Association Internationale des Études Arméniennes
-  hy: Հայկական Ուսումներու Միջազգային Ընկերակցութիւն
+title: Association Internationale des Études Arméniennes
 author:
   en: AIEA Secretary
   fr: Secrétaire AIEA
@@ -31,17 +28,15 @@ description:
   fr: Site de l'Association Internationale des Études Arméniennes. Nouvelles et informations sur l'AIEA, son exécutif, ses membres et ses activités.
   hy: Հայկական ​​ուսումնասիրությունի միջազգային ընկերակցությունի կայք։ Նորություններ և տեղեկատվություն ՀՈՄԸ-ի, նրա գործադիրի, անդամների և գործունեության մասին։
 email: info@aiearmeniennes.org
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://www.aiearmeniennes.org" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.aiearmeniennes.org/" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: AIEAArmenian
 github_username: AIEArmeniennes
 
 # Build settings
-theme: minima
-minima:
-  date_format: "%d %B %Y"
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-polyglot
 
 languages: ["en", "fr", "hy"]

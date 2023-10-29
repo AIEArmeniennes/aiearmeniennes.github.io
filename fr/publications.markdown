@@ -5,9 +5,6 @@ title: Publications
 permalink: /publications/
 ---
 
-# Publications
-
-
 ## 1. Armenian Studies 2000
 
 L'AIEA a lancé un programe de publication de manuels d'études arméniennes, faisant le point sur les principales disciplines de l'arménologie: philologie, linguistique, histoire, histoire des idées, littérature, histoire de l'art.          
