@@ -5,13 +5,13 @@ title: Անդամակցություն
 permalink: /membership/
 ---
 
-## Անդամակցության կատեգորիաները
+## Անդամակցության տեսակները
 
-L'AIEA comprend trois catégories de membres :
+ՀՈՄԸ-ն ունի անդամակցության երեք տեսակ՝
 
-- les membres étudiants (étudiants, doctorants);
-- les membres effectifs : dont l’arménologie constitue l’activité principale (professeurs, chercheurs);
-- les membres associés : dont l’arménologie ne constitue pas l’activité principale mais qui ont un intérêt pour les études et les questions arméniennes.
+1. ուսանող անդամներ՝՝ ուսանողներ, ասպիրանտներ,
+2. կանոնավոր անդամներ՝ նրանք, ում համար հայագիտությունը հիմնական զբաղմունք է (հետազոտողներ, դասավանդողներ),
+3. ասոցացված անդամներ՝ նրանք, ում համար հայագիտությունը հիմնական զբաղմունք չէ, բայց ովքեր հետաքրքրված են հայագիտությամբ։
 
 ## Անդամ ինչո՞ւ դառնալ։
 
