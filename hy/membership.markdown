@@ -13,15 +13,16 @@ permalink: /membership/
 2. լիիրավ անդամներ՝ նրանք, ում համար հայագիտությունը հիմնական զբաղմունք է (հետազոտողներ, դասավանդողներ),
 3. ասոցացված անդամներ՝ նրանք, ում համար հայագիտությունը հիմնական զբաղմունք չէ, բայց ովքեր հետաքրքրված են հայագիտությամբ։
 
-## Անդամ ինչո՞ւ դառնալ։
 
-Pour devenir membre de l’AIEA, il faut en adresser la demande (lettre de motivation et curriculum vitae) au secrétariat de l’association, en précisant la catégorie d’affiliation. Les demandes des membres effectifs et des membres associés doivent être introduites par deux membres effectifs de l’AIEA. Le Comité peut lui-même proposer la candidature d’un nouveau membre.
+## Դառնալ անդամ
 
-Le passage de membre étudiant à membre effectif nécessite l’envoi d’une demande, assortie d’un curriculum vitae, au secrétariat de l’association.
+ՀՈՄԸ-ի անդամ դառնալու համար անհրաժեշտ է դիմում (ուղեկցող նամակ և ինքնակենսագրություն) ուղարկել ընկերակցության քարտուղարին` նշելով անդամակցության տեսակը: Լիիրավ և ասոցացված անդամակցության համար դիմումները պետք է գրավոր աջակցվեն ընկերակցության երկու լիիրավ անդամների կողմից: Հանձնաժողովն ինքը կարող է առաջարկել նոր անդամի թեկնածություն։
 
-Une cotisation annuelle doit être versée, à un compte indiqué à chaque membre en fonction de sa nationalité ou de sa résidence.
+Ուսանող անդամ դառնալու համար դիմումը՝ ներառյալ ինքնակենսագրությունը, պետք է ուղարկվի ՀՈՄԸ-ի քարտուղարին:
 
-Lors de l’Assemblée générale de l’AIEA (Oxford, 11 août 2017), il a été décidé de proposer une réduction de 50% du montant de la cotisation pour les membres résidant dans les pays inclus dans la liste des pays OCDE, p.ex. Arménie, Géorgie, Egypte, Ukraine, Argentine, Belarus, Liban, Turquie, etc. Vérifiez si vous êtes éligible à la réduction avant de payer la cotisation: [Liste OECD](https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/DAC-List-ODA-Recipients-for-reporting-2021-flows.pdf).
+Յուրաքանչյուր անդամի համար պետք է վճարվի տարեկան անդամավճար՝ ըստ քաղաքացիության կամ բնակության վայրի։ Անդամավճարը վճարվում է ըստ օրացուցային տարվա։
+
+ՀՈՄԸ-ի Գլխավոր ասամբլեայում (Օքսֆորդ, օգոստոսի 11, 2017թ.) որոշվեց անդամավճարի 50%-ով նվազեցում առաջարկել ՏՀԶԿ ցանկում ընդգրկված երկրներում բնակվող անդամների համար, օրինակ՝ Հայաստան, Վրաստան, Եգիպտոս, Ուկրաինա, Արգենտինա, Բելառուս, Լիբանան, Թուրքիա և այլն: Կարող եք ստուգել, թե արդյոք ձեր երկիրը գտնվում է ցուցակում հետևյալ հղմամբ՝ [ՏՀՁԿ երկրների ցուցակ](https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/DAC-List-ODA-Recipients-for-reporting-2021-flows.pdf).
 
 ## Անդամավճարներ
 
