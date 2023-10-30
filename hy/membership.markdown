@@ -40,7 +40,7 @@ permalink: /membership/
 
 [Տարադրամի ներկա փոխարժեքը](https://www.xe.com/fr/)
 
-Comptes bancaires de l’AIEA:
+Բանկային տվյալներ՝
 
 - Italie: (Dr. Irene Tinti) UniCredit Banca, Filiale Rovato Bonomelli, Conto: 000104600908 (IBAN: IT 54S0200855143000104600908; BIC: UNCRITM1033)
 - Belgique: (Prof. Bernard Coulie) BNP Paribas Fortis 271-7228768-69 (IBAN: BE71 2717 2287 6869; BIC: GEBABEBB)
