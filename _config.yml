@@ -45,6 +45,12 @@ default_lang: "en"
 exclude_from_localization: ["assets", "public"]
 parallel_localization: true
 lang_from_path: true
+date_format: "%d %B %Y"
+
+posts_heading:
+  en: News
+  fr: Nouvelles
+  hy: Նորություններ
 
 # Exclude from processing.
 # The following items will not be processed, by default.
