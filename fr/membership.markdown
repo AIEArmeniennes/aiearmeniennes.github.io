@@ -5,8 +5,6 @@ title: Affiliation
 permalink: /membership/
 ---
 
-# Affiliation
-
 ## Catégories de membres
 
 L'AIEA comprend trois catégories de membres :

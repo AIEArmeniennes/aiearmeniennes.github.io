@@ -25,9 +25,9 @@ Responsable de la liste de diffusion aiea@telf.com : Père Garabed Telfeyan fr.g
 
 | | |
 |-|-|
-| Membres d'honneur        |  Prof. Dickran Kouymjian, Prof. Hennig Lehmann, Prof. Levon Zekiyan<br> <br>Prof. Acad. V. Barkhudaryan †, Prof. Nina G. Garsoïan †, Prof. Jean-Michel Thierry †, Prof. Robert W. Thomson † (Thomson Obituary.pdf), Prof. Gabriella Uluhogian †.  |
-| Président honoraire      |  Prof. Michael E. Stone |
-| Secrétaire fondateur et ancien président  |  Prof. Jos J. Weitenberg † (1943-2012)<br> <br>WeitenbergObituary.pdf<br> <br>WeitenbergBibliography.pdf |
+| Membres d'honneur        |  Prof. Dickran Kouymjian, Prof. Hennig Lehmann, Prof. Levon Zekiyan<br> <br>Prof. Acad. V. Barkhudaryan †, Prof. Nina G. Garsoïan †, Prof. Jean-Michel Thierry †, Prof. [Robert W. Thomson †](/public/Thomson-Obituary.pdf), Prof. Gabriella Uluhogian †.  |
+| Président honoraire      |  Prof. [Michael E. Stone](http://apocryphalstone.com/) |
+| Secrétaire fondateur et ancien président  |  Prof. Jos J. Weitenberg † (1943-2012) ([Obituary](/public/WeitenbergObituary2.pdf) \| [Bibliography](/public/WeitenbergBibliography2.pdf)) |
 | Membre honoraire         |  Prof. Chris Burchard (1931-2020) |
 
 ## Statuts
