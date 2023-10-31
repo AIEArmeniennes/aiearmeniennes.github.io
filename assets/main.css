@@ -18,14 +18,14 @@ body {
     min-height: 100vh; 
     flex-direction: column; 
     background-image: url("logo_sidebar.webp"); 
-    background-size: 180px; 
+    background-size: 15%; 
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
 
 /** Make room for the left-side banner */
 .site-header, .page-content, .site-footer {
-    margin-left: 200px;
+    margin-left: 16%;
 }
 
 /** Set `margin-bottom` to maintain vertical rhythm */
@@ -105,7 +105,7 @@ table th { background-color: #f0f0f0; border: 1px solid #dedede; border-bottom-c
 table td { border: 1px solid #e8e8e8; }
 
 /** Language bar */
-.lang-picker { float: right; }
+.lang-picker { position: absolute; top: 0px; right: 0px; padding-right: 100px; }
 
 /** Site header */
 .site-header { border-bottom: 1px solid #e8e8e8; min-height: 55.95px; position: relative; }
@@ -114,7 +114,7 @@ table td { border: 1px solid #e8e8e8; }
 .site-title, .site-title:visited { color: #424242; }
 
 .nav-cell { vertical-align: bottom; }
-.site-nav { float: right; }
+.site-nav { position: absolute; bottom: 0px; right: 0px; padding-right: 100px; }
 .site-nav .nav-trigger { display: none; }
 .site-nav .menu-icon { display: none; }
 .site-nav .page-link { color: #111; line-height: 1.5; }
