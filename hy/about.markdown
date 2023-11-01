@@ -21,15 +21,15 @@ permalink: /about/
 
 aiea@telf.com փոստային ցանկի պատասխանատու՝ Տեր Կարապետ Թելֆեյան fr.garabed@telf.com
 
-## Autres Informations
+## Այլ տեղեկություններ
 
 | | |
 |-|-|
-| Membres d'honneur        |  Prof. Dickran Kouymjian, Prof. Hennig Lehmann, Prof. Levon Zekiyan<br> <br>Prof. Acad. V. Barkhudaryan †, Prof. Nina G. Garsoïan †, Prof. Jean-Michel Thierry †, Prof. [Robert W. Thomson †](/public/Thomson-Obituary.pdf), Prof. Gabriella Uluhogian †.  |
-| Président honoraire      |  Prof. [Michael E. Stone](http://apocryphalstone.com/) |
-| Secrétaire fondateur et ancien président  |  Prof. Jos J. Weitenberg † (1943-2012) ([Obituary](/public/WeitenbergObituary2.pdf) \| [Bibliography](/public/WeitenbergBibliography2.pdf)) |
-| Membre honoraire         |  Prof. Chris Burchard (1931-2020) |
+| Membres d'honneur        |  Պրոֆ. Տիգրան Կույումջյան, Պրոֆ. Հեննիգ Լեհման, Պրոֆ. Լևոն Զեքիյան<br> <br>Պրոֆ. ակադ. Վլադիմիր Բարխուդարյան †, Պրոֆ. Նինա Գարսոյան †, Պրոֆ. Ժան-Միշել Թիերի †, Պրոֆ. [Ռոբերտ Թոմսոն †](/public/Thomson-Obituary.pdf), Պրոֆ. Գաբրիելլա Ուլուհոջյան †.  |
+| Պատվավոր նախագահ      |  Պրոֆ. [Մայքլ Սթոուն](http://apocryphalstone.com/) |
+| Հիմնադիր քարտուղար և նախկին նախագահ  |  Պրոֆ. Յոս Վայտենբերգ † (1943-2012) ([Մահախոսական](/public/WeitenbergObituary2.pdf) \| [Կենսագրություն](/public/WeitenbergBibliography2.pdf)) |
+| Պատվավոր անդամ         |  Պրոֆ. Քրիստոֆ Բուրխարդ (1931-2020) |
 
-## Statuts
+## Կանոնադրություն
 
-Version téléchargeable des statuts de l’A.I.E.A.; + AIEA Amendement 1990.
+ՀՈՄԸ-ի կանոնադրության և AIEA Amendement 1990 ներռեբնելի տարբերակ։
