@@ -17,7 +17,7 @@ permalink: /about/
 | Քարտուղար<br><br><br><br><br>   |  Պրոֆ. Տարա Էնդրյուս <br>Universität Wien<br>Institut für Geschichte<br>Universitätsring, 1, 1010 WIEN (Austria)<br>tara.andrews@univie.ac.at  |
 | Գանձապահ<br><br><br><br><br>   |  Դոկտ. Իրենե Տինտի<br>Dipartimento di Civiltà e Forme del Sapere<br>Università di Pisa<br>Italia<br>irene.tinti.82@gmail.com |
 | Տեղեկագրի խմբագիր<br><br><br><br>     |  Պրոֆ. Մարկո Բայիս<br>Pontificio Istituto Orientale<br>Piazza S. Maria Maggiore, 7<br>I-00185 Roma (Italie)<br>marbais@hotmail.com |
-| Կոմիտեյի անդամներ     |  Դոկտ. Եմիլիո Բոնֆիլիո, Պրոֆ. Բերնար Կուլի, Պրոֆ. Նազենի Ղարիբյան, Պրոֆ. Ռոբին Մայեր |
+| Կոմիտեյի անդամներ     |  Դոկտ. Էմիլիո Բոնֆիլիո, Պրոֆ. Բերնար Կուլի, Պրոֆ. Նազենի Ղարիբյան, Պրոֆ. Ռոբին Մայեր |
 
 aiea@telf.com փոստային ցանկի պատասխանատու՝ Տեր Կարապետ Թելֆեյան fr.garabed@telf.com
 
