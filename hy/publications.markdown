@@ -5,19 +5,19 @@ title: Հրապարակումներ
 permalink: /publications/
 ---
 
-## 1. Armenian Studies 2000
+## 1. Հայագիտական ուսումնասիրություններ 2000
 
-L'AIEA a lancé un programe de publication de manuels d'études arméniennes, faisant le point sur les principales disciplines de l'arménologie: philologie, linguistique, histoire, histoire des idées, littérature, histoire de l'art.          
+ՀՈՄԸ-ն մեկնարկել է հայագիտական ձեռնարկների հրատարակման ծրագիր, որն ընդգրկում է հայագիտության հիմնական գիտակարգերը՝ բանասիրություն, լեզվաբանություն, պատմություն, մտավոր պատմություն, գրականություն և արվեստի պատմություն:
 
-Ces volumes sont destinés à paraître dans la collection *Handbuch der Orientalistik -- Handbook of Oriental Studies*.
+Հատորները Արևելագիտական ձեռնարկ (Handbuch der Orientalistik) մատենաշարի մաս են:
 
 | | |
 |-|-|
 | 2014 | Armenian Philology in the Modern Era. From Manuscript to Digital Text, Edited by Valentina Calzolari, With the Collaboration of Michael E. Stone (Handbook of Oriental Studies, VIII, 23, 1), Leiden – Boston, Brill, 2014, XV+595pp. ISBN 978-90-04-25994-2.                                                                                                   |
-|      | Prochains volumes:<br> <br>- Histoire ancienne et médiévale: dir. G. Traina, 2018.<br>- Linguistique: dir. A. Orengo et I. Tinti, 2019.<br>- Littérature: dir. Th. van Lint, 2019.<br>- Histoire de l’art et architecture: 2020.<br>- Société, religion, histoire des idées et des sciences, dir. M. Bais: 2022.<br>- Histoire moderne et contemporaine: 2022.  |
+|      | Առաջիկ հատորներ՝ <br> <br>- Histoire ancienne et médiévale: dir. G. Traina, 2018.<br>- Linguistique: dir. A. Orengo et I. Tinti, 2019.<br>- Littérature: dir. Th. van Lint, 2019.<br>- Histoire de l’art et architecture: 2020.<br>- Société, religion, histoire des idées et des sciences, dir. M. Bais: 2022.<br>- Histoire moderne et contemporaine: 2022.  |
 
 
-## 2. Publications des travaux et séminaires de l'AIEA.
+## 2. ՀՈՄԸ-ի աշխատանքների և սեմինարների հրապարակումներ
 
 | | |
 |------|-------------|
@@ -32,70 +32,69 @@ Ces volumes sont destinés à paraître dans la collection *Handbuch der Orienta
 | 1992 | Bernard Coulie, Répertoire des catalogues et des bibliothèques de manuscrits arméniens (Corpus Christianorum) Turnhout, Brepols, 1992. Voir les compléments dans Le Muséon, 108 (1995), p. 115-130; 113 (2000), p. 149-176; 117 (2004), p. 473-496.<br> <br>Liste des sigles utilisés pour désigner les manuscrits arméniens: liste des sigles en format pdf                                  |
 | 1986 | Maurice Leroy et Francine Mawet (éds.), La place de l’arménien dans les langues indo-européennes (Fonds René Draguet, Académie Royale de Belgique, Classe des Lettres, 3) Leuven, Peeters, 1986.                                                                                                                                                                                              |
 
-## 3. Journal (Newsletter) de l'AIEA
+## 3. ՀՈՄԸ-ի Տեղեկագիր
 
-Editeur du Newsletter de l'AIEA: Prof. [Marco Bais](marbais@hotmail.com)
+ՀՈՄԸ-ի Տեղեկագրի խմբագիր՝ Պրոֆ. [Մարկո Բայիս](marbais@hotmail.com)
 
-Tous les membres de l'AIEA peuvent envoyer à l'éditeur des informations (activités, prix, personalia, publications, expositions) qu'ils souhaitent voir mentionnées dans le Newsletter.
+ՀՈՄԸ-ի բոլոր անդամները կարող են խմբագրին ուղարկել ցանկացած տեղեկատվություն (գործունեություն, մրցանակներ, անձնական տեղեկություններ, հրապարակումներ, ցուցահանդեսներ), որ իրենք կցանկանային ընդգրկել Տեղեկագրում:
 
-### Fichiers pdf téléchargeables
+### Ներբեռնելի pdf ֆայլեր
 
-- [Newsletter n°1](public/newsletter/aiea_newsletter_01.pdf)
-- [Newsletter n°2](public/newsletter/aiea_newsletter_02.pdf)
-- [Newsletter n°3](public/newsletter/aiea_newsletter_03.pdf)
-- [Newsletter n°4](public/newsletter/aiea_newsletter_04.pdf)
-- [Newsletter n°5](public/newsletter/aiea_newsletter_05.pdf)
-- [Newsletter n°6](public/newsletter/aiea_newsletter_06.pdf)
-- [Newsletter n°7](public/newsletter/aiea_newsletter_07.pdf)
-- [Newsletter n°8](public/newsletter/aiea_newsletter_08.pdf)
-- [Newsletter n°9](public/newsletter/aiea_newsletter_09.pdf)
-- [Newsletter n°10](public/newsletter/aiea_newsletter_10.pdf)
-- [Newsletter n°11](public/newsletter/aiea_newsletter_11.pdf)
-- [Newsletter n°12](public/newsletter/aiea_newsletter_12.pdf)
-- [Newsletter n°13](public/newsletter/aiea_newsletter_13.pdf)
-- [Newsletter n°14](public/newsletter/aiea_newsletter_14.pdf)
-- [Newsletter n°15](public/newsletter/aiea_newsletter_15.pdf)
-- [Newsletter n°16](public/newsletter/aiea_newsletter_16.pdf)
-- [Newsletter n°17](public/newsletter/aiea_newsletter_17.pdf)
-- [Newsletter n°18](public/newsletter/aiea_newsletter_18.pdf)
-- [Newsletter n°19](public/newsletter/aiea_newsletter_19.pdf)
-- [Newsletter n°20](public/newsletter/aiea_newsletter_20.pdf)
-- [Newsletter n°21](public/newsletter/aiea_newsletter_21.pdf)
-- [Newsletter n°22](public/newsletter/aiea_newsletter_22.pdf)
-- [Newsletter n°23](public/newsletter/aiea_newsletter_23.pdf)
-- [Newsletter n°24](public/newsletter/aiea_newsletter_24.pdf)
-- [Newsletter n°25](public/newsletter/aiea_newsletter_25.pdf)
-- [Newsletter n°26](public/newsletter/aiea_newsletter_26.pdf)
-- [Newsletter n°27](public/newsletter/aiea_newsletter_27.pdf)
-- [Newsletter n°28](public/newsletter/aiea_newsletter_28.pdf)
-- [Newsletter n°29](public/newsletter/aiea_newsletter_29.pdf)
-- [Newsletter n°30](public/newsletter/aiea_newsletter_30.pdf)
-- Newsletter n°31
-- Newsletter n°32
-- Newsletter n°33
-- Newsletter n°34
-- Newsletter n°35
-- Newsletter n°36
-- Newsletter n°37
-- Newsletter n°38
-- Newsletter n°39
-- Newsletter n°40
-- Newsletter n°41
-- Newsletter n°42
-- Newsletter n°43
-- Newsletter n°44
-- Newsletter n°45
-- Newsletter n°46-47
-- Newsletter n°48-49
-- [Newsletter n°50](public/newsletter/aiea_newsletter_50.pdf)
-- [Newsletter n°51](public/newsletter/aiea_newsletter_51.pdf)
-- [Newsletter n°52](public/newsletter/aiea_newsletter_52.pdf)
-- [Newsletter n°53](public/newsletter/aiea_newsletter_53.pdf)
-- [Newsletter n°54](public/newsletter/aiea_newsletter_54.pdf)
-- [Newsletter n°55](public/newsletter/aiea_newsletter_55.pdf)
-- [Newsletter n°56](public/newsletter/aiea_newsletter_56.pdf)
+- [Տեղեկագիր n°1](public/newsletter/aiea_newsletter_01.pdf)
+- [Տեղեկագիր n°2](public/newsletter/aiea_newsletter_02.pdf)
+- [Տեղեկագիր n°3](public/newsletter/aiea_newsletter_03.pdf)
+- [Տեղեկագիր n°4](public/newsletter/aiea_newsletter_04.pdf)
+- [Տեղեկագիր n°5](public/newsletter/aiea_newsletter_05.pdf)
+- [Տեղեկագիր n°6](public/newsletter/aiea_newsletter_06.pdf)
+- [Տեղեկագիր n°7](public/newsletter/aiea_newsletter_07.pdf)
+- [Տեղեկագիր n°8](public/newsletter/aiea_newsletter_08.pdf)
+- [Տեղեկագիր n°9](public/newsletter/aiea_newsletter_09.pdf)
+- [Տեղեկագիր n°10](public/newsletter/aiea_newsletter_10.pdf)
+- [Տեղեկագիր n°11](public/newsletter/aiea_newsletter_11.pdf)
+- [Տեղեկագիր n°12](public/newsletter/aiea_newsletter_12.pdf)
+- [Տեղեկագիր n°13](public/newsletter/aiea_newsletter_13.pdf)
+- [Տեղեկագիր n°14](public/newsletter/aiea_newsletter_14.pdf)
+- [Տեղեկագիր n°15](public/newsletter/aiea_newsletter_15.pdf)
+- [Տեղեկագիր n°16](public/newsletter/aiea_newsletter_16.pdf)
+- [Տեղեկագիր n°17](public/newsletter/aiea_newsletter_17.pdf)
+- [Տեղեկագիր n°18](public/newsletter/aiea_newsletter_18.pdf)
+- [Տեղեկագիր n°19](public/newsletter/aiea_newsletter_19.pdf)
+- [Տեղեկագիր n°20](public/newsletter/aiea_newsletter_20.pdf)
+- [Տեղեկագիր n°21](public/newsletter/aiea_newsletter_21.pdf)
+- [Տեղեկագիր n°22](public/newsletter/aiea_newsletter_22.pdf)
+- [Տեղեկագիր n°23](public/newsletter/aiea_newsletter_23.pdf)
+- [Տեղեկագիր n°24](public/newsletter/aiea_newsletter_24.pdf)
+- [Տեղեկագիր n°25](public/newsletter/aiea_newsletter_25.pdf)
+- [Տեղեկագիր n°26](public/newsletter/aiea_newsletter_26.pdf)
+- [Տեղեկագիր n°27](public/newsletter/aiea_newsletter_27.pdf)
+- [Տեղեկագիր n°28](public/newsletter/aiea_newsletter_28.pdf)
+- [Տեղեկագիր n°29](public/newsletter/aiea_newsletter_29.pdf)
+- [Տեղեկագիր n°30](public/newsletter/aiea_newsletter_30.pdf)
+- Տեղեկագիր n°31
+- Տեղեկագիր n°32
+- Տեղեկագիր n°33
+- Տեղեկագիր n°34
+- Տեղեկագիր n°35
+- Տեղեկագիր n°36
+- Տեղեկագիր n°37
+- Տեղեկագիր n°38
+- Տեղեկագիր n°39
+- Տեղեկագիր n°40
+- Տեղեկագիր n°41
+- Տեղեկագիր n°42
+- Տեղեկագիր n°43
+- Տեղեկագիր n°44
+- Տեղեկագիր n°45
+- Տեղեկագիր n°46-47
+- Տեղեկագիր n°48-49
+- [Տեղեկագիր n°50](public/newsletter/aiea_newsletter_50.pdf)
+- [Տեղեկագիր n°51](public/newsletter/aiea_newsletter_51.pdf)
+- [Տեղեկագիր n°52](public/newsletter/aiea_newsletter_52.pdf)
+- [Տեղեկագիր n°53](public/newsletter/aiea_newsletter_53.pdf)
+- [Տեղեկագիր n°54](public/newsletter/aiea_newsletter_54.pdf)
+- [Տեղեկագիր n°55](public/newsletter/aiea_newsletter_55.pdf)
+- [Տեղեկագիր n°56](public/newsletter/aiea_newsletter_56.pdf)
 
-## 4. Liste de diffusion électronique
-
-Abonnement à la liste de diffusion électronique:
+## 4. Էլեկտրոնային փոստային ցանկ
+Բաժանորդագրվել փոստային ցանկին
 [http://www.telf.com/mailman/listinfo/aiea/telf.com/](http://www.telf.com/mailman/listinfo/aiea_telf.com/)
