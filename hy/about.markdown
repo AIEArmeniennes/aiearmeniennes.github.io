@@ -5,21 +5,21 @@ title: ՀՈՄԸ-ն
 permalink: /about/
 ---
 
-## ՀՈՄԸ-ն ի՞նչ է։
+## ՀՈՄԸ-ի մասին
 
-L’AIEA (Association Internationale des Etudes Arméniennes) est une société savante pour la promotion des études arméniennes. Elle rassemble des membres de nombreux pays, surtout européens, mais aussi de l’Arménie, du Proche-Orient, d’Amérique du nord et du sud. Elle est membre de l’Union Internationale des Etudes Orientales et Asiatiques (UIEOA).
+ՀՈՄԸ-ն (Հայագիտական ուսումնասիրությունների միջազգային ընկերակցություն) գիտական ընկերություն է, որի նպատակն է հայագիտության խթանումը: Այն համախմբում է անդամներ բազմաթիվ երկրներից, հատկապես` Եվրոպայից, բայց նաև` Հայաստանից, Մերձավոր Արևելքից, Հյուսիսային և Հարավային Ամերիկայից: Այն Արևելյան և ասիական հետազոտությունների միջազգային միության (UIEOA) անդամ է։
 
 ## Organisation : Comité et fonctions
 
 |        |        | 
 |--------|--------|
-| Նախագահ<br><br><br><br><br>   |  Պրոֆ. Վալենտինա Կալզոլարի<br>Centre de recherches arménologiques<br>Université de Genève<br>22, Boulevard des Philosophes, CH-1211 Genève 4 (Suisse)<br>valentina.calzolari@unige.ch  |
-| Քարտուղար<br><br><br><br><br>   |  Պրոֆ. Տարա Ենդրիուս <br>Universität Wien<br>Institut für Geschichte<br>Universitätsring, 1, 1010 WIEN (Austria)<br>tara.andrews@univie.ac.at  |
+| Նախագահ<br><br><br><br><br>   |  Պրոֆ. Վալենտինա Կալցոլարի<br>Centre de recherches arménologiques<br>Université de Genève<br>22, Boulevard des Philosophes, CH-1211 Genève 4 (Suisse)<br>valentina.calzolari@unige.ch  |
+| Քարտուղար<br><br><br><br><br>   |  Պրոֆ. Տարա Էնդրյուս <br>Universität Wien<br>Institut für Geschichte<br>Universitätsring, 1, 1010 WIEN (Austria)<br>tara.andrews@univie.ac.at  |
 | Գանձապահ<br><br><br><br><br>   |  Դոկտ. Իրենե Տինտի<br>Dipartimento di Civiltà e Forme del Sapere<br>Università di Pisa<br>Italia<br>irene.tinti.82@gmail.com |
 | Տեղեկագրի խմբագիր<br><br><br><br>     |  Պրոֆ. Մարկո Բայիս<br>Pontificio Istituto Orientale<br>Piazza S. Maria Maggiore, 7<br>I-00185 Roma (Italie)<br>marbais@hotmail.com |
 | Կոմիտեյի անդամներ     |  Դոկտ. Եմիլիո Բոնֆիլիո, Պրոֆ. Բերնար Կուլի, Պրոֆ. Նազենի Ղարիբյան, Պրոֆ. Ռոբին Մայեր |
 
-Responsable de la liste de diffusion aiea@telf.com : Père Garabed Telfeyan fr.garabed@telf.com
+aiea@telf.com փոստային ցանկի պատասխանատու՝ Տեր Կարապետ Թելֆեյան fr.garabed@telf.com
 
 ## Autres Informations
 
