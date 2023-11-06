@@ -11,13 +11,16 @@ L’AIEA (Association Internationale des Etudes Arméniennes) est une société 
 
 ## Organisation : Comité et fonctions
 
-|        |        | 
-|--------|--------|
-| Présidente<br><br><br><br><br>   |  Prof. Valentina Calzolari<br>Centre de recherches arménologiques<br>Université de Genève<br>22, Boulevard des Philosophes, CH-1211 Genève 4 (Suisse)<br>valentina.calzolari@unige.ch  |
-| Secrétaire<br><br><br><br><br>   |  Prof. Tara Andrews <br>Universität Wien<br>Institut für Geschichte<br>Universitätsring, 1, 1010 WIEN (Austria)<br>tara.andrews@univie.ac.at  |
-| Trésorier<br><br><br><br><br>   |  Dr. Irene Tinti<br>Dipartimento di Civiltà e Forme del Sapere<br>Università di Pisa<br>Italia<br>irene.tinti.82@gmail.com |
-| Editeur du Newsletter<br><br><br><br>     |  Prof. Marco Bais<br>Pontificio Istituto Orientale<br>Piazza S. Maria Maggiore, 7<br>I-00185 Roma (Italie)<br>marbais@hotmail.com |
-| Membres du Comité     |  Prof. Marco Bais, Dr. Emilio Bonfiglio, Prof. Bernard Coulie, Prof. Nazénie Garibian, Prof. Robin Meier |
+|        |        |        |
+|--------|--------|--------|
+| Présidente<br>(élu, 2022–2024)  |<img src="/assets/vc.png" height="132">| Prof. Valentina Calzolari<br>Centre de recherches arménologiques<br>Université de Genève<br>22, Boulevard des Philosophes, CH-1211 Genève 4 (Suisse)<br>valentina.calzolari@unige.ch  |
+| Secrétaire<br>(coopté, 2022–2024) |<img src="/assets/ta.png" height="132">|  Prof. Tara Andrews <br>Universität Wien<br>Institut für Geschichte<br>Universitätsring, 1, 1010 WIEN (Austria)<br>tara.andrews@univie.ac.at  |
+| Trésorier<br>(élu, 2021–2023) |<img src="/assets/it.png" height="132">| Dr. Irene Tinti<br>Department SAGAS / ERC project ArmEn<br>Via San Gallo 10<br>University of Florence (Italy)<br>irene.tinti.82@gmail.com |
+| Editeur du Newsletter<br>(élu, 2021–2023) ||  Prof. Marco Bais<br>Pontificio Istituto Orientale<br>Piazza S. Maria Maggiore, 7<br>I-00185 Roma (Italie)<br>marbais@hotmail.com |
+| Membre du Comité<br>(coopté, 2021 – 2023) |<img src="/assets/bc.png" height="132">| Prof. Bernard Coulie |
+| Membre du Comité<br>(coopté, 2021 – 2023) |<img src="/assets/ng.jpeg" height="132">| Prof. Nazénie Garibian |
+| Membre du Comité<br>(élu, 2022 – 2024) || Dr. Emilio Bonfiglio |
+| Membre du Comité<br>(élu, 2022 – 2024) || Prof. Robin Meier |
 
 Responsable de la liste de diffusion aiea@telf.com : Père Garabed Telfeyan fr.garabed@telf.com
 
