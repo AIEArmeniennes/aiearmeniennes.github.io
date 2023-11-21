@@ -19,7 +19,7 @@ permalink: /about/
 | Տեղեկագրի խմբագիր<br><br>(ընտրված, 2021–2023) || Պրոֆ. Մարկո Բայիս<br>Pontificio Istituto Orientale<br>Piazza S. Maria Maggiore, 7<br>I-00185 Roma (Իտալիա)<br>marbais@hotmail.com |
 | Հանձնաժողովի անդամ<br>(հրավիրված, 2021 – 2023) |<img src="/assets/bc.png" height="132">| Պրոֆ. Բերնար Կուլի |
 | Հանձնաժողովի անդամ<br>(հրավիրված, 2021 – 2023) |<img src="/assets/ng.jpeg" height="132">| Պրոֆ. Նազենի Ղարիբյան |
-| Հանձնաժողովի անդամ<br>(ընտրված, 2022 – 2024) || Դոկտ. Էմիլիո Բոնֆիլիո |
+| Հանձնաժողովի անդամ<br>(ընտրված, 2022 – 2024) |<img src="/assets/eb.jpg" height="132">| Դոկտ. Էմիլիո Բոնֆիլիո<br>Centre for the Study of Manuscript Cultures<br>University of Hamburg<br>Warburgstr. 28<br>20354 Hamburg (Գերմանիա)<br>emilio.bonfiglio@uni-hamburg.de |
 | Հանձնաժողովի անդամ<br>(ընտրված, 2022 – 2024) |<img src="/assets/meyer_portrait_small.jpg" height="132">| Պրոֆ. Ռոբին Մայեր<br>Section des sciences du langage et de l'information<br>Université de Lausanne<br>Campus Dorigny<br>CH-1015 Lausanne (Շվեյցարիա)<br>robin.meyer@unil.ch | 
 
 aiea@telf.com փոստային ցանկի պատասխանատու՝ Տեր Կարապետ Թելֆեյան fr.garabed@telf.com
