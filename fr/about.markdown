@@ -35,4 +35,4 @@ Responsable de la liste de diffusion aiea@telf.com : Père Garabed Telfeyan fr.g
 
 ## Statuts
 
-Veuillez trouver ici des versions téléchargeables des [statuts de l’A.I.E.A.](/public/AIEA-Amendement.pdf) ainsi que de l'[amendement de 1990](/public/AIEA-Statuts).
+Veuillez trouver ici des versions téléchargeables des [statuts de l’A.I.E.A.](/public/AIEA-Amendement.pdf) ainsi que de l'[amendement de 1990](/public/AIEA-Statuts.pdf).
