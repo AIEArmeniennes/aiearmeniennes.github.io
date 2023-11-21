@@ -35,4 +35,4 @@ Responsible for the mailing list aiea@telf.com: Father Garabed Telfeyan fr.garab
 
 ## Statutes
 
-Downloadable version of the AIEA statutes; + AIEA Amendement 1990.
+Please find here downloadable version of the [AIEA statutes](/public/AIEA-Amendement.pdf) and the [1990 Amendment](/public/AIEA-Statuts).
