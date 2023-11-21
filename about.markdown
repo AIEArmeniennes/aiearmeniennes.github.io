@@ -19,7 +19,7 @@ The AIEA (International Association of Armenian Studies) is a learned society fo
 | Newsletter Editor<br>(elected, 2021–2023) ||  Prof. Marco Bais<br>Pontificio Istituto Orientale<br>Piazza S. Maria Maggiore, 7<br>I-00185 Roma (Italy)<br>marbais@hotmail.com |
 | Committee Member<br>(coopted, 2021 – 2023) |<img src="/assets/bc.png" height="132">| Prof. Bernard Coulie |
 | Committee Member<br>(coopted, 2021 – 2023) |<img src="/assets/ng.jpeg" height="132">| Prof. Nazénie Garibian |
-| Committee Member<br>(elected, 2022 – 2024) || Dr. Emilio Bonfiglio |
+| Committee Member<br>(elected, 2022 – 2024) |<img src="/assets/eb.jpg" height="132">| Dr. Emilio Bonfiglio<br>Centre for the Study of Manuscript Cultures<br>University of Hamburg<br>Warburgstr. 28<br>20354 Hamburg (Germany)<br>emilio.bonfiglio@uni-hamburg.de |
 | Committee Member<br>(elected, 2022 – 2024) |<img src="/assets/meyer_portrait_small.jpg" height="132">| Prof. Robin Meyer<br>Section des sciences du langage et de l'information<br>Université de Lausanne<br>Campus Dorigny<br>CH-1015 Lausanne (Switzerland)<br>robin.meyer@unil.ch |
 
 Responsible for the mailing list aiea@telf.com: Father Garabed Telfeyan fr.garabed@telf.com
