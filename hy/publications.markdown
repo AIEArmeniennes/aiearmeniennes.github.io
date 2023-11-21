@@ -14,7 +14,7 @@ permalink: /publications/
 | | |
 |-|-|
 | 2014 | Armenian Philology in the Modern Era. From Manuscript to Digital Text, Edited by Valentina Calzolari, With the Collaboration of Michael E. Stone (Handbook of Oriental Studies, VIII, 23, 1), Leiden – Boston, Brill, 2014, XV+595pp. ISBN 978-90-04-25994-2.                                                                                                   |
-|      | Առաջիկա հատորներ՝ <br> <br>- Histoire ancienne et médiévale: dir. G. Traina, 2018.<br>- Linguistique: dir. A. Orengo et I. Tinti, 2019.<br>- Littérature: dir. Th. van Lint, 2019.<br>- Histoire de l’art et architecture: 2020.<br>- Société, religion, histoire des idées et des sciences, dir. M. Bais: 2022.<br>- Histoire moderne et contemporaine: 2022.  |
+|      | Առաջիկա հատորներ՝ <br> <br>- Histoire ancienne et médiévale: dir. G. Traina, 2018.<br>- Linguistique: dir. A. Orengo, I. Tinti, et R. Meyer, 2019.<br>- Littérature: dir. E. Bonfiglio et Th. van Lint, 2019.<br>- Histoire de l’art et architecture: 2020.<br>- Société, religion, histoire des idées et des sciences, dir. M. Bais: 2022.<br>- Histoire moderne et contemporaine: 2022.  |
 
 
 ## 2. ՀՈՄԸ-ի աշխատանքների և սեմինարների հրապարակումներ
