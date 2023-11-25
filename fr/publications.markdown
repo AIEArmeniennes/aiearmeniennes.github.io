@@ -95,7 +95,14 @@ Tous les membres de l'AIEA peuvent envoyer à l'éditeur des informations (activ
 - [Newsletter n°55](/public/newsletter/aiea_newsletter_55.pdf)
 - [Newsletter n°56](/public/newsletter/aiea_newsletter_56.pdf)
 
-## 4. Liste de diffusion électronique
+## 4. D'autres publications et ressources 
+
+- [Uluhogian  (1987) Bibliography of Armenian Dictionaries (Bibliographie des dictionnaires arméniens)](/public/uluhogian1987.pdf)
+- [Liste des sigles pour désigner les manuscrits arméniens](/public/armenian-mss.sigla.pdf)
+- [Le 500e anniversaire de l’imprimerie arménienne (par Valentina Calzolari)](/public/500-armenian-printing.pdf)
+- [In memoriam Hrachya Tamrazyan (par Valentina Calzolari)](/public/in-memoriam-Tamrazyan.pdf)
+
+## 5. Liste de diffusion électronique
 
 Abonnement à la liste de diffusion électronique:
 [http://www.telf.com/mailman/listinfo/aiea/telf.com/](http://www.telf.com/mailman/listinfo/aiea_telf.com/)
