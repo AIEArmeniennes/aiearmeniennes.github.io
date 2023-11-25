@@ -96,7 +96,14 @@ All AIEA members can send the editor any information (activities, awards, person
 - [Newsletter n°55](/public/newsletter/aiea_newsletter_55.pdf)
 - [Newsletter n°56](/public/newsletter/aiea_newsletter_56.pdf)
 
-## 4. Email distribution list
+## 4. Other publications and resources
+
+- [Uluhogian  (1987) Bibliography of Armenian Dictionaries](/public/uluhogian1987.pdf)
+- [List of abbreviations for the designation of Armenian manuscripts](/public/armenian-mss.sigla.pdf)
+- [Valentina Calzolari on the 500th anniversary of Armenian printing](/public/500-armenian-printing.pdf)
+- [In memoriam Hrachya Tamrazyan (by Valentina Calzolari)](/public/in-memoriam-Tamrazyan.pdf)
+
+## 5. Email distribution list
 
 Subscription to the mailing list:
 [http://www.telf.com/mailman/listinfo/aiea/telf.com/](http://www.telf.com/mailman/listinfo/aiea_telf.com/)
