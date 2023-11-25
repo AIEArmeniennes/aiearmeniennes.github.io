@@ -95,6 +95,15 @@ permalink: /publications/
 - [Տեղեկագիր n°55](/public/newsletter/aiea_newsletter_55.pdf)
 - [Տեղեկագիր n°56](/public/newsletter/aiea_newsletter_56.pdf)
 
+## 4. Other publications and resources
+
+- [Uluhogian  (1987) Bibliography of Armenian Dictionaries (Հայերեն բառարանների մատենագիտություն)](/public/uluhogian1987.pdf)
+- [Հայերեն ձեռագրերի նշանակման հապավումների ցանկ](/public/armenian-mss.sigla.pdf)
+- [Հայ գրատպության 500-ամյակը (Վալենտինա Կալցոլարի)](/public/500-armenian-printing.pdf)
+- [Հրաչյա Թամրազյանի հիշատակին (Վալենտինա Կալցոլարի)](/public/in-memoriam-Tamrazyan.pdf)
+
+## 5. Email distribution list
+
 ## 4. Էլեկտրոնային փոստային ցանկ
 Բաժանորդագրվել փոստային ցանկին
 [http://www.telf.com/mailman/listinfo/aiea/telf.com/](http://www.telf.com/mailman/listinfo/aiea_telf.com/)
