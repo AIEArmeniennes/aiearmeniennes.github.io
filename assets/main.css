@@ -18,7 +18,7 @@ body {
     min-height: 100vh; 
     flex-direction: column; 
     background-image: url("logo_sidebar.webp"); 
-    background-size: contain; 
+    background-size: cover; 
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
