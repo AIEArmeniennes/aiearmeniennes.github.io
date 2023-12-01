@@ -11,16 +11,53 @@ permalink: /about/
 
 ## Կազմակերպություն։ Հանձնաժողով և գործառույթներ
 
-|        |        |        |
-|--------|--------|--------|
-| Նախագահ<br>(ընտրված, 2022–2024)  |<img src="/assets/vc.png" height="132">| Պրոֆ. Վալենտինա Կալցոլարի<br>Centre de recherches arménologiques<br>Université de Genève<br>22, Boulevard des Philosophes, CH-1211 Genève 4 (Շվեյցարիա)<br>valentina.calzolari@unige.ch  |
-| Քարտուղար<br>(հրավիրված, 2022–2024) |<img src="/assets/ta.png" height="132">| Պրոֆ. Տարա Էնդրյուս <br>Universität Wien<br>Institut für Geschichte<br>Universitätsring, 1, 1010 WIEN (Ավստրիա)<br>tara.andrews@univie.ac.at  |
-| Գանձապահ<br>(ընտրված, 2021–2023) |<img src="/assets/it.png" height="132">| Դոկտ. Իրենե Տինտի<br>Department SAGAS / ERC project ArmEn<br>Via San Gallo 10<br>University of Florence (Իտալիա)<br>irene.tinti.82@gmail.com |
-| Տեղեկագրի խմբագիր<br><br>(ընտրված, 2021–2023) |<img src="/assets/mb.png" height="132">| Պրոֆ. Մարկո Բայիս<br>Pontificio Istituto Orientale<br>Piazza S. Maria Maggiore, 7<br>I-00185 Roma (Իտալիա)<br>marbais@hotmail.com |
-| Հանձնաժողովի անդամ<br>(հրավիրված, 2021 – 2023) |<img src="/assets/bc.png" height="132">| Պրոֆ. Բերնար Կուլի<br>FIAL<br>Place Cardinal Mercier 31/L3.03.32<br>B-1348 Louvain-la-Neuve (Բելգիա)<br>bernard.coulie@uclouvain.be |
-| Հանձնաժողովի անդամ<br>(հրավիրված, 2021 – 2023) |<img src="/assets/ng.jpeg" height="132">| Պրոֆ. Նազենի Ղարիբյան<br>Մեսրոպ Մաշտոցի անվան հին ձեռագրերի գիտահետազոտական ինստիտուտ Մատենադարան<br>Մեսրոպ Մաշտոցի պող. 53<br>ք. Երևան, 0009 (Հայաստանի Հանրապետություն)<br>n.garibian@matenadaran.am|
-| Հանձնաժողովի անդամ<br>(ընտրված, 2022 – 2024) |<img src="/assets/eb.jpg" height="132">| Դոկտ. Էմիլիո Բոնֆիլիո<br>Centre for the Study of Manuscript Cultures<br>University of Hamburg<br>Warburgstr. 28<br>20354 Hamburg (Գերմանիա)<br>emilio.bonfiglio@uni-hamburg.de |
-| Հանձնաժողովի անդամ<br>(ընտրված, 2022 – 2024) |<img src="/assets/meyer_portrait_small.jpg" height="132">| Պրոֆ. Ռոբին Մայեր<br>Section des sciences du langage et de l'information<br>Université de Lausanne<br>Campus Dorigny<br>CH-1015 Lausanne (Շվեյցարիա)<br>robin.meyer@unil.ch | 
+<table>
+    <tr>
+        <th>&nbsp;</th>
+        <th>&nbsp;</th>
+        <th>&nbsp;</th>
+    </tr>
+    <tr>
+        <td>Նախագահ<br>(ընտրված, 2022–2024)</td>
+        <td style="width:110px"><img src="/assets/vc.png" height="132"></td>
+        <td>Պրոֆ. Վալենտինա Կալցոլարի<br>Centre de recherches arménologiques<br>Université de Genève<br>22, Boulevard des Philosophes, CH-1211 Genève 4 (Շվեյցարիա)<br>valentina.calzolari@unige.ch</td>
+    </tr>
+    <tr>
+        <td>Քարտուղար<br>(հրավիրված, 2022–2024)</td>
+        <td><img src="/assets/ta.png" height="132"></td>
+        <td>Պրոֆ. Տարա Էնդրյուս <br>Universität Wien<br>Institut für Geschichte<br>Universitätsring, 1, 1010 WIEN (Ավստրիա)<br>tara.andrews@univie.ac.at</td>
+    </tr>
+    <tr>
+        <td>Գանձապահ<br>(ընտրված, 2021–2023)</td>
+        <td><img src="/assets/it.png" height="132"></td>
+        <td>Դոկտ. Իրենե Տինտի<br>Department SAGAS / ERC project ArmEn<br>Via San Gallo 10<br>University of Florence (Իտալիա)<br>irene.tinti.82@gmail.com</td>
+    </tr>
+    <tr>
+        <td>Տեղեկագրի խմբագիր<br><br>(ընտրված, 2021–2023)</td>
+        <td><img src="/assets/mb.png" height="132"></td>
+        <td>Պրոֆ. Մարկո Բայիս<br>Pontificio Istituto Orientale<br>Piazza S. Maria Maggiore, 7<br>I-00185 Roma (Իտալիա)<br>marbais@hotmail.com</td>
+    </tr>
+    <tr>
+        <td>Հանձնաժողովի անդամ<br>(հրավիրված, 2021 – 2023)</td>
+        <td><img src="/assets/bc.png" height="132"></td>
+        <td>Պրոֆ. Բերնար Կուլի<br>FIAL<br>Place Cardinal Mercier 31/L3.03.32<br>B-1348 Louvain-la-Neuve (Բելգիա)<br>bernard.coulie@uclouvain.be</td>
+    </tr>
+    <tr>
+        <td>Հանձնաժողովի անդամ<br>(հրավիրված, 2021 – 2023)</td>
+        <td><img src="/assets/ng.jpeg" height="132"></td>
+        <td>Պրոֆ. Նազենի Ղարիբյան<br>Մեսրոպ Մաշտոցի անվան հին ձեռագրերի գիտահետազոտական ինստիտուտ Մատենադարան<br>Մեսրոպ Մաշտոցի պող. 53<br>ք. Երևան, 0009 (Հայաստանի Հանրապետություն)<br>n.garibian@matenadaran.am</td>
+    </tr>
+    <tr>
+        <td>Հանձնաժողովի անդամ<br>(ընտրված, 2022 – 2024)</td>
+        <td><img src="/assets/eb.jpg" height="132"></td>
+        <td>Դոկտ. Էմիլիո Բոնֆիլիո<br>Centre for the Study of Manuscript Cultures<br>University of Hamburg<br>Warburgstr. 28<br>20354 Hamburg (Գերմանիա)<br>emilio.bonfiglio@uni-hamburg.de</td>
+    </tr>
+    <tr>
+        <td>Հանձնաժողովի անդամ<br>(ընտրված, 2022 – 2024)</td>
+        <td><img src="/assets/meyer_portrait_small.jpg" height="132"></td>
+        <td>Պրոֆ. Ռոբին Մայեր<br>Section des sciences du langage et de l&#39;information<br>Université de Lausanne<br>Campus Dorigny<br>CH-1015 Lausanne (Շվեյցարիա)<br>robin.meyer@unil.ch</td>
+    </tr>
+</table>
 
 aiea@telf.com փոստային ցանկի պատասխանատու՝ Տեր Կարապետ Թելֆեյան fr.garabed@telf.com
 
