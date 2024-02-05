@@ -35,7 +35,7 @@ These volumes are to be published in the series *Handbuch der Orientalistik -- H
 
 ## 3. Newsletter of the AIEA
 
-Editor of the AIEA Newsletter: Prof. [Marco Bais](marbais@hotmail.com)
+Editor of the AIEA Newsletter: Prof. [Marco Bais](mailto:marbais@hotmail.com)
 
 All AIEA members can send the editor any information (activities, awards, personalia, publications, exhibitions) that they would like in the Newsletter.
 

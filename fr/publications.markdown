@@ -34,7 +34,7 @@ Ces volumes sont destinés à paraître dans la collection *Handbuch der Orienta
 
 ## 3. Journal (Newsletter) de l'AIEA
 
-Editeur du Newsletter de l'AIEA: Prof. [Marco Bais](marbais@hotmail.com)
+Editeur du Newsletter de l'AIEA: Prof. [Marco Bais](mailto:marbais@hotmail.com)
 
 Tous les membres de l'AIEA peuvent envoyer à l'éditeur des informations (activités, prix, personalia, publications, expositions) qu'ils souhaitent voir mentionnées dans le Newsletter.
 
