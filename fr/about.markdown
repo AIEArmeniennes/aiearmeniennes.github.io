@@ -28,22 +28,17 @@ L’AIEA (Association Internationale des Etudes Arméniennes) est une société 
         <td>Prof. Tara Andrews <br>Universität Wien<br>Institut für Geschichte<br>Universitätsring, 1, 1010 WIEN (Autriche)<br>tara.andrews@univie.ac.at</td>
     </tr>
     <tr>
-        <td>Trésorier<br>(élu, 2021–2023)</td>
+        <td>Trésorier<br>(élu, 2024–2026)</td>
         <td><img src="/assets/it.png" height="132"></td>
         <td>Dr. Irene Tinti<br>Department SAGAS / ERC project ArmEn<br>Via San Gallo 10<br>University of Florence (Italie)<br>irene.tinti.82@gmail.com</td>
     </tr>
     <tr>
-        <td>Editeur du Newsletter<br>(élu, 2021–2023)</td>
+        <td>Editeur du Newsletter<br>(élu, 2024–2026)</td>
         <td><img src="/assets/mb.png" height="132"></td>
         <td>Prof. Marco Bais<br>Pontificio Istituto Orientale<br>Piazza S. Maria Maggiore, 7<br>I-00185 Roma (Italie)<br>marbais@hotmail.com</td>
     </tr>
     <tr>
-        <td>Membre du Comité<br>(coopté, 2021 – 2023)</td>
-        <td><img src="/assets/bc.png" height="132"></td>
-        <td>Prof. Bernard Coulie<br>FIAL<br>Place Cardinal Mercier 31/L3.03.32<br>B-1348 Louvain-la-Neuve (Belgique)<br>bernard.coulie@uclouvain.be</td>
-    </tr>
-    <tr>
-        <td>Membre du Comité<br>(coopté, 2021 – 2023)</td>
+        <td>Membre du Comité<br>(coopté, 2024 – 2026)</td>
         <td><img src="/assets/ng.jpeg" height="132"></td>
         <td>Prof. Nazénie Garibian<br>Institut Machtots de recherches sur les manuscrits anciens Matenadaran<br>Avenue Mesrop-Machtots 53<br>0019 Erevan (Arménie)<br>n.garibian@matenadaran.am</td>
     </tr>

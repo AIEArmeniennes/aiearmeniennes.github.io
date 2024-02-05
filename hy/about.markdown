@@ -28,22 +28,17 @@ permalink: /about/
         <td>Պրոֆ. Տարա Էնդրյուս <br>Universität Wien<br>Institut für Geschichte<br>Universitätsring, 1, 1010 WIEN (Ավստրիա)<br>tara.andrews@univie.ac.at</td>
     </tr>
     <tr>
-        <td>Գանձապահ<br>(ընտրված, 2021–2023)</td>
+        <td>Գանձապահ<br>(ընտրված, 2024–2026)</td>
         <td><img src="/assets/it.png" height="132"></td>
         <td>Դոկտ. Իրենե Տինտի<br>Department SAGAS / ERC project ArmEn<br>Via San Gallo 10<br>University of Florence (Իտալիա)<br>irene.tinti.82@gmail.com</td>
     </tr>
     <tr>
-        <td>Տեղեկագրի խմբագիր<br><br>(ընտրված, 2021–2023)</td>
+        <td>Տեղեկագրի խմբագիր<br><br>(ընտրված, 2024–2026)</td>
         <td><img src="/assets/mb.png" height="132"></td>
         <td>Պրոֆ. Մարկո Բայիս<br>Pontificio Istituto Orientale<br>Piazza S. Maria Maggiore, 7<br>I-00185 Roma (Իտալիա)<br>marbais@hotmail.com</td>
     </tr>
     <tr>
-        <td>Հանձնաժողովի անդամ<br>(հրավիրված, 2021 – 2023)</td>
-        <td><img src="/assets/bc.png" height="132"></td>
-        <td>Պրոֆ. Բերնար Կուլի<br>FIAL<br>Place Cardinal Mercier 31/L3.03.32<br>B-1348 Louvain-la-Neuve (Բելգիա)<br>bernard.coulie@uclouvain.be</td>
-    </tr>
-    <tr>
-        <td>Հանձնաժողովի անդամ<br>(հրավիրված, 2021 – 2023)</td>
+        <td>Հանձնաժողովի անդամ<br>(հրավիրված, 2024 – 2026)</td>
         <td><img src="/assets/ng.jpeg" height="132"></td>
         <td>Պրոֆ. Նազենի Ղարիբյան<br>Մեսրոպ Մաշտոցի անվան հին ձեռագրերի գիտահետազոտական ինստիտուտ Մատենադարան<br>Մեսրոպ Մաշտոցի պող. 53<br>ք. Երևան, 0009 (Հայաստանի Հանրապետություն)<br>n.garibian@matenadaran.am</td>
     </tr>
