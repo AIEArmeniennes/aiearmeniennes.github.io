@@ -43,4 +43,6 @@ Bank accounts:
 
 - Italy: (Dr. Irene Tinti) UniCredit Banca, Filiale Rovato Bonomelli, Conto: 000104600908 (IBAN: IT 54S0200855143000104600908; BIC: UNCRITM1033)
 - France: (Dr. Agnès Ouzounian) PAR 57 216 15 C (IBAN: FR42 2004 1000 0157 2161 5C02 080; BIC: PSSTFRPPPAR); Agnès Ouzounian, 83 rue Estienne d’Orves, F-93110 Rosny-sous-Bois, France
-- Armenia: (Dr. Nazenie Garibian) Araratbank OJSC, 19 Pushkin Street, Yerevan, RA, Account Nr 1510 0346 8635 0200 (SWIFT: ARMCAM22)
+- Armenia: (Prof. N. Garibian) Ameriabank, Moskovyan branch, 48 Ave. Mashtots, Yerevan, 0002, Republic of Armenia, Account n. 1570028512180100 (SWIFT/BIC: ARMIAM22); Intermediary bank: Citibank NA, New York (SWIFT/BIC: CITIUS33). [Please note that this is a new bank account; the previous Armenian account is no longer in use.]
+
+  If in doubt, members are asked to get in touch with the Treasurer.
