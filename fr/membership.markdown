@@ -43,4 +43,6 @@ Comptes bancaires de l’AIEA:
 
 - Italie: (Dr. Irene Tinti) UniCredit Banca, Filiale Rovato Bonomelli, Conto: 000104600908 (IBAN: IT 54S0200855143000104600908; BIC: UNCRITM1033)
 - France: (Dr. Agnès Ouzounian) PAR 57 216 15 C (IBAN: FR42 2004 1000 0157 2161 5C02 080; BIC: PSSTFRPPPAR); Agnès Ouzounian, 83 rue Estienne d’Orves, F-93110 Rosny-sous-Bois, France
-- Arménie: (Dr. Nazenie Garibian) Araratbank OJSC, 19 Pushkin Street, Yerevan, RA, Account Nr 1510 0346 8635 0200 (SWIFT: ARMCAM22)
+- Arménie: (Prof. N. Garibian) Ameriabank, agence Moskovyan, 48 Ave. Mashtots, Yerevan, 0002, République d'Arménie, compte 1570028512180100 (SWIFT/BIC: ARMIAM22); banque intermédiaire: Citibank NA, New York (SWIFT/BIC: CITIUS33). [Veuillez noter qu'il s'agir d'un nouveau compte; l'ancien n'est plus utilisé.]
+
+Les membres qui ne sont pas sûrs peuvent s'adresser à la trésorière.
