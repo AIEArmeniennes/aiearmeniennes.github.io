@@ -21,7 +21,7 @@ Le passage de membre étudiant à membre effectif nécessite l’envoi d’une d
 
 Une cotisation annuelle doit être versée, à un compte indiqué à chaque membre en fonction de sa nationalité ou de sa résidence.
 
-Lors de l’Assemblée générale de l’AIEA (Oxford, 11 août 2017), il a été décidé de proposer une réduction de 50% du montant de la cotisation pour les membres résidant dans les pays inclus dans la liste des pays OCDE, p.ex. Arménie, Géorgie, Egypte, Ukraine, Argentine, Belarus, Liban, Turquie, etc. Vérifiez si vous êtes éligible à la réduction avant de payer la cotisation: [Liste OECD](https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/DAC-List-ODA-Recipients-for-reporting-2021-flows.pdf).
+Lors de l’Assemblée générale de l’AIEA (Oxford, 11 août 2017), il a été décidé de proposer une réduction de 50% du montant de la cotisation pour les membres résidant dans les pays inclus dans la liste des pays OCDE, p.ex. Arménie, Géorgie, Egypte, Ukraine, Argentine, Belarus, Liban, Turquie, etc. Vérifiez si vous êtes éligible à la réduction avant de payer la cotisation: [Liste OECD](https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/DAC-List-of-ODA-Recipients-for-reporting-2022-23-flows.pdf).
 
 ## Cotisations
 
