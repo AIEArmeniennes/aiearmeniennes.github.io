@@ -21,7 +21,7 @@ To become a student member, an application, including a curriculum vitae, must b
 
 An annual membership fee must be paid, to an account indicated to each member according to their nationality or place of residence. The membership fee is paid according to the calendar year.
 
-At the AIEA General Assembly (Oxford, 11 August 2017), it was decided to offer a 50% reduction in the membership fee for members residing in countries included in the list of OECD countries, e.g. Armenia, Georgia, Egypt, Ukraine, Argentina, Belarus, Lebanon, Turkey, etc. You may check whether your country is on the list via this link: [OECD List](https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/DAC-List-ODA-Recipients-for-reporting-2021-flows.pdf).
+At the AIEA General Assembly (Oxford, 11 August 2017), it was decided to offer a 50% reduction in the membership fee for members residing in countries included in the list of OECD countries, e.g. Armenia, Georgia, Egypt, Ukraine, Argentina, Belarus, Lebanon, Turkey, etc. You may check whether your country is on the list via this link: [OECD List](https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/DAC-List-of-ODA-Recipients-for-reporting-2022-23-flows.pdf).
 
 ## Membership fees
 
