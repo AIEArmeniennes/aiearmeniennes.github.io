@@ -68,5 +68,3 @@ aiea@telf.com փոստային ցանկի պատասխանատու՝ ՏԷր Կա
 ## Կանոնադրություն
 
 ՀՈՄԸ-ի [կանոնադրութեան](/public/AIEA-Statuts.pdf) և [1990-ի փոփոխութիւն](/public/AIEA-Amendement.pdf) ներռեբնելի տարբերակ։
-![image](https://github.com/AIEArmeniennes/aiearmeniennes.github.io/assets/45945013/f8f0ec48-1549-412c-88d4-29cb07945914)
-
