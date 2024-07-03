@@ -25,7 +25,7 @@ permalink: /about/
     <tr>
         <td>Քարտուղար<br>(հրաւիրված, 2022–2024)</td>
         <td><img src="/assets/ta.png" height="132"></td>
-        <td>Պրոֆ. Տարա Էնդրիւս <br>Universität Wien<br>Institut für Geschichte<br>Universitätsring, 1, 1010 WIEN (Ավստրիա)<br>tara.andrews@univie.ac.at</td>
+        <td>Պրոֆ. Թարա Էնդրիւս <br>Universität Wien<br>Institut für Geschichte<br>Universitätsring, 1, 1010 WIEN (Ավստրիա)<br>tara.andrews@univie.ac.at</td>
     </tr>
     <tr>
         <td>Գանձապահ<br>(ընտրված, 2024–2026)</td>
