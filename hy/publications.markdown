@@ -102,8 +102,6 @@ permalink: /publications/
 - [Հայ գրատպութեան 500-ամյակը (Վալենտինա Կալցոլարի)](/public/500-armenian-printing.pdf)
 - [Հրաչեա Թամրազեանի յիշատակին (Վալենտինա Կալցոլարի)](/public/in-memoriam-Tamrazyan.pdf)
 
-## 5. Email distribution list
-
-## 4. Էլեկտրոնային նամականու ցանկ
+## 5. Էլեկտրոնային նամականու ցանկ
 Բաժանորդագրուել նամականու ցանկին
 [http://www.telf.com/mailman/listinfo/aiea/telf.com/](http://www.telf.com/mailman/listinfo/aiea_telf.com/)
