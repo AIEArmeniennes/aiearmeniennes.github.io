@@ -40,7 +40,7 @@ permalink: /membership/
 
 [Տարադրամի ներկայ փոխարժէքը](https://www.xe.com/fr/)
 
-Բանկային տուելալներ՝
+Բանկային տուեալներ ՝
 - Իտալիա՝ (Dr. Irene Tinti) UniCredit Banca, Filiale Rovato Bonomelli, Conto: 000104600908 (IBAN: IT 54S0200855143000104600908; BIC: UNCRITM1033),
 - Ֆրանսիա՝ (Dr. Agnès Ouzounian) PAR 57 216 15 C (IBAN: FR42 2004 1000 0157 2161 5C02 080; BIC: PSSTFRPPPAR); Agnès Ouzounian, 83 rue Estienne d’Orves, F-93110 Rosny-sous-Bois, France,
 - Հայաստան՝ (Պրոֆ. Նազենի Ղարիբյան) Ամերիաբանկ, «Մոսկովյան» մ/ճ, Մաշտոցի պող. 48, Երևան, Հայաստան, հաշվեհամար՝ 1570028512180100 (SWIFT/BIC: ARMIAM22)։ Միջնորդ բանկ՝ Citibank NA, New York (SWIFT/BIC: CITIUS33)։
