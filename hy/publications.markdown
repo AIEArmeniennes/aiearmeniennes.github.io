@@ -7,17 +7,17 @@ permalink: /publications/
 
 ## 1. Հայագիտական ուսումնասիրութիւններ 2000
 
-ՀՈՄԸ-ն մեկնարկել է հայագիտական ձեռնարկների հրատարակման ծրագիր, որն ընդգրկում է հայագիտութեան հիմնական գիտակարգերը՝ բանասիրութիւն, լեզուաբանութիւն, պատմութիւն, մտաւոր պատմութիւն, գրականութիւն եւ արուեստի պատմութիւն:
+ՀՈՄԸ մեկնարկել է հայագիտական ձեռնարկների հրատարակման ծրագիր, որն ընդգրկում է հայագիտութեան հիմնական գիտակարգերը՝ բանասիրութիւն, լեզուաբանութիւն, պատմութիւն, մտաւոր պատմութիւն, գրականութիւն եւ արուեստի պատմութիւն:
 
-Հատորները Արեւելագիտական ձեռնարկ (Handbuch der Orientalistik) մատենաշարի մաս են:
+Հատորներն ընդգրկուած են Արեւելագիտական ձեռնարկ (Handbuch der Orientalistik) մատենաշարում:
 
 | | |
 |-|-|
 | 2014 | Armenian Philology in the Modern Era. From Manuscript to Digital Text, Edited by Valentina Calzolari, With the Collaboration of Michael E. Stone (Handbook of Oriental Studies, VIII, 23, 1), Leiden – Boston, Brill, 2014, XV+595pp. ISBN 978-90-04-25994-2.                                                                                                   |
-|      | Առաջիկա հատորներ՝ <br> <br>- Histoire ancienne et médiévale: dir. G. Traina, 2018.<br>- Linguistique: dir. A. Orengo, I. Tinti, et R. Meyer, 2019.<br>- Littérature: dir. E. Bonfiglio et Th. van Lint, 2019.<br>- Histoire de l’art et architecture: 2020.<br>- Société, religion, histoire des idées et des sciences, dir. M. Bais: 2022.<br>- Histoire moderne et contemporaine: 2022.  |
+|      | Առաջիկա հատորներ՝ <br> <br>- Histoire ancienne et médiévale: dir. G. Traina, 2018.<br>- Linguistique: dir. A. Orengo, I. Tinti, et R. Meyer, 2019.<br>- Littérature: dir. E. Bonfiglio et Th. van Lint, 2019.<br>- Histoire de l’art et d'architecture: dir. Nazénie Garibian, Christina Maranci, coll. de Sipana Tchakerian, 2020.<br>- Société, religion, histoire des idées et des sciences, dir. M. Bais: 2022.<br>- Histoire moderne et contemporaine: 2022.  |
 
 
-## 2. ՀՈՄԸ-ի աշխատանքների եւ սեմինարների հրապարակումներ
+## 2. ՀՈՄԸ աշխատանքների եւ սեմինարների հրապարակումներ
 
 | | |
 |------|-------------|
@@ -32,11 +32,11 @@ permalink: /publications/
 | 1992 | Bernard Coulie, Répertoire des catalogues et des bibliothèques de manuscrits arméniens (Corpus Christianorum) Turnhout, Brepols, 1992. Voir les compléments dans Le Muséon, 108 (1995), p. 115-130; 113 (2000), p. 149-176; 117 (2004), p. 473-496.<br> <br>Liste des sigles utilisés pour désigner les manuscrits arméniens: liste des sigles en format pdf                                  |
 | 1986 | Maurice Leroy et Francine Mawet (éds.), La place de l’arménien dans les langues indo-européennes (Fonds René Draguet, Académie Royale de Belgique, Classe des Lettres, 3) Leuven, Peeters, 1986.                                                                                                                                                                                              |
 
-## 3. ՀՈՄԸ-ի Տեղեկագիր
+## 3. ՀՈՄԸ Տեղեկագիր
 
-ՀՈՄԸ-ի Տեղեկագրի խմբագիր՝ Պրոֆ. [Մարկո Բայիս](mailto:marbais@hotmail.com)
+ՀՈՄԸ Տեղեկագրի խմբագիր՝ Պրոֆ. [Մարկո Բայիս](mailto:marbais@hotmail.com)
 
-ՀՈՄԸ-ի բոլոր անդամները կարող են խմբագրին ուղարկել ցանկացած տեղեկատւութիւն (գործունեութիւն, մրցանակներ, անձնական տեղեկութիւններ, հրապարակումներ, ցուցահանդէսներ), որն իրենք կը ցանկանային ընդգրկել Տեղեկագրում:
+ՀՈՄԸ բոլոր անդամները կարող են խմբագրին ուղարկել ցանկացած տեղեկատւութիւն (գործունեութիւն, մրցանակներ, անձնական տեղեկութիւններ, հրապարակումներ, ցուցահանդէսներ), որն իրենք կը ցանկանային ընդգրկել Տեղեկագրում:
 
 ### Ներբեռնելի pdf ֆայլեր
 
@@ -104,6 +104,6 @@ permalink: /publications/
 
 ## 5. Email distribution list
 
-## 4. Էլեկտրոնային փոստային ցանկ
-Բաժանորդագրուել փոստային ցանկին
+## 4. Էլեկտրոնային նամականու ցանկ
+Բաժանորդագրուել նամականու ցանկին
 [http://www.telf.com/mailman/listinfo/aiea/telf.com/](http://www.telf.com/mailman/listinfo/aiea_telf.com/)
