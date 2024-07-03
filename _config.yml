@@ -22,11 +22,11 @@ title: Association Internationale des Études Arméniennes
 author:
   en: AIEA Secretary
   fr: Secrétaire AIEA
-  hy: Քարտուղար ՀՈՄԸ-ի
+  hy: ՀՈՄԸ քարտուղար
 description: 
   en: Website of the Association Internationale des Études Arméniennes. News and information about the AIEA, its executive, its membership and its activities.
   fr: Site de l'Association Internationale des Études Arméniennes. Nouvelles et informations sur l'AIEA, son exécutif, ses membres et ses activités.
-  hy: Հայկական Ուսումներու Միջազգային Ընկերակցութեան կայք։ Նորություններ և տեղեկատվություն ՀՈՄԸ-ի, նրա գործադիրի, անդամների և գործունեության մասին։
+  hy: Հայկական Ուսումներու Միջազգային Ընկերակցութեան կայք։ ՀՈՄԸ Նորութիւններ եւ տեղեկատւութիւն, գործադիրի, անդամների և գործունեութեան մասին։
 email: info@aiearmeniennes.org
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.aiearmeniennes.org/" # the base hostname & protocol for your site, e.g. http://example.com
