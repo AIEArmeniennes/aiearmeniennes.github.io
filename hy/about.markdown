@@ -1,7 +1,7 @@
 ---
 layout: page
 lang: hy
-title: ՀՈՄԸ-ն
+title: ՀՈՄԸ
 permalink: /about/
 ---
 
