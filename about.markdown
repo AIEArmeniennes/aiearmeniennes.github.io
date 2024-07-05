@@ -60,7 +60,7 @@ Responsible for the mailing list aiea@telf.com: Father Garabed Telfeyan fr.garab
 
 | | |
 |-|-|
-| Patron members                           |  Prof. Dickran Kouymjian, Prof. Hennig Lehmann, Prof. Levon Zekiyan<br> <br>Prof. Acad. V. Barkhudaryan †, Prof. Nina G. Garsoïan †, Prof. Jean-Michel Thierry †, Prof. [Robert W. Thomson †](/public/Thomson-Obituary.pdf), Prof. Gabriella Uluhogian †.  |
+| Patron members                           |  Prof. Dickran Kouymjian, Prof. Hennig Lehmann, Prof. Levon Zekiyan<br> <br>Prof. Acad. V. Barkhudaryan †, Prof. [Nina G. Garsoïan †](/public/garsoian_obit.pdf), Prof. Jean-Michel Thierry †, Prof. [Robert W. Thomson †](/public/Thomson-Obituary.pdf), Prof. [Gabriella Uluhogian †](/public/uluhogian_obit.pdf).  |
 | Honorary President                       |  Prof. [Michael E. Stone](http://apocryphalstone.com/) |
 | Founding Secretary and Former President  |  Prof. Jos J. Weitenberg † (1943-2012) ([Obituary](/public/WeitenbergObituary2.pdf) \| [Bibliography](/public/WeitenbergBibliography2.pdf)) |
 | Honorary Member                         |  Prof. Chris Burchard (1931-2020) |
