@@ -39,7 +39,7 @@ L’AIEA (Association Internationale des Etudes Arméniennes) est une société 
     </tr>
     <tr>
         <td>Membre du Comité<br>(coopté, 2024 – 2026)</td>
-        <td><img src="/assets/ng.jpeg" height="132"></td>
+        <td><img src="/assets/ng.jpg" height="132"></td>
         <td>Prof. Nazénie Garibian<br>Institut Machtots de recherches sur les manuscrits anciens Matenadaran<br>Avenue Mesrop-Machtots 53<br>0019 Erevan (Arménie)<br>n.garibian@matenadaran.am</td>
     </tr>
     <tr>

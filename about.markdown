@@ -39,7 +39,7 @@ The AIEA (International Association of Armenian Studies) is a learned society fo
     </tr>
     <tr>
         <td>Committee Member<br>(coopted, 2024 – 2026)</td>
-        <td><img src="/assets/ng.jpeg" height="132"></td>
+        <td><img src="/assets/ng.jpg" height="132"></td>
         <td>Prof. Nazénie Garibian<br>Mesrop Mashtots Institute of Ancient Manuscripts Matenadaran<br>53 Mashtots Ave<br>0019 Yerevan (Armenia)<br>n.garibian@matenadaran.am</td>
     </tr>
     <tr>

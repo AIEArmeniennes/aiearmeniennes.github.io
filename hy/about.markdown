@@ -39,7 +39,7 @@ permalink: /about/
     </tr>
     <tr>
         <td>Յանձնաժողովի անդամ<br>(հրաւիրուած, 2024 – 2026)</td>
-        <td><img src="/assets/ng.jpeg" height="132"></td>
+        <td><img src="/assets/ng.jpg" height="132"></td>
         <td>Պրոֆ. Նազենի Ղարիբեան<br>Մեսրոպ Մաշտոցի անուան հին ձեռագրերի գիտահետազօտական ինստիտուտ Մատենադարան<br>Մեսրոպ Մաշտոցի պող. 53<br>ք. Երեւան, 0009 (Հայաստանի Հանրապետութիւն)<br>n.garibian@matenadaran.am</td>
     </tr>
     <tr>
