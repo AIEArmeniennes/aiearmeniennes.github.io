@@ -8,7 +8,7 @@ permalink: /activities/
 ## 1. General Conferences
 
 | | |
-|-|-|
+|------|-------------|
 |Halle|2–4 September 2021 ([Programme](/public/programme_halle_2021.pdf))|
 |Oxford|10–12 August 2017 ([Programme](/public/programme_oxford_2017.pdf) – [Abstracts](/public/abstracts_oxford_2017.pdf))|
 |Erevan|9–11 October 2014 ([Programme](/public/programme_erevan_2014.pdf) – [Proceedings](https://www.matenadaran.am/ftp/data/Banber-21.pdf))|
