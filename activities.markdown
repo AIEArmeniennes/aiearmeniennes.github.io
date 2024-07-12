@@ -31,7 +31,7 @@ permalink: /activities/
 
 | | |
 |------|-------------|
-|2019|International conference “Armenian Eastern Parts (Artsakh, Utik): History and Culture”, Gandzasar, Artsakh, 26–27 August 2019; joint-organization AIEA-Matenadaran.([Proceedings](http://www.matenadaran.am/_all/matenadaran.am/?id=307&lng=3))|
+|2019|International conference “Armenian Eastern Parts (Artsakh, Utik): History and Culture”, Gandzasar, Artsakh, 26–27 August 2019; joint-organization AIEA-Matenadaran. ([Proceedings](https://www.matenadaran.am/ftp/data/Banber-29.pdf))|
 |2018|[Il viaggio in Armenia dall’Antichità ai nostri giorni](https://www.unive.it/data/33113/1/23655), Università di Venezia Ca’ Foscari, 29–30 octobre 2018.|
 |2018|Workshop on Sciences and Learning in Armenian between Anania Širakac‘i and Grigor Magistros, Gyumri, 5–6 October 2018. ([Programme](/public/programme_gyumri_2018.pdf) – [Abstracts](/public/abstracts_gyumri_2018.pdf))|
 |2013|Workshop on Armenian folklore and mythology, Harvard University, 31 August – 1 September 2013. ([Programme](/public/programme_harvard_2013.pdf))|
@@ -43,15 +43,15 @@ permalink: /activities/
 |1993|New Approaches to Middle Armenian Language and Literature, Leiden, 25–27 March 1993.|
 |1992|The Hellenizing School, Milano, 7-9 September 1992.|
 |1990|The Armenian Bible, Heidelberg, 16–19 July 1990. ([Proceedings](https://www.peeters-leuven.be/detail.php?search_key=9781555405977&series_number_str=12&lang=en))|
-|1989|Priorities, Problems and Techniques of Text Editions, Sandjberg, 16–20 July 1989. ([Proceedings](http://en.unipress.dk/udgivelser/a/armenian-texts,-tasks-and-tools/))||
+|1989|Priorities, Problems and Techniques of Text Editions, Sandjberg, 16–20 July 1989. ([Proceedings](http://en.unipress.dk/udgivelser/a/armenian-texts,-tasks-and-tools/))|
 |1987|Chrysostomica and Pseudo-Chrysostomica, Aarhus, April 1987.|
 |1985|La place de l’arménien dans les langues indo-européennes, Bruxelles, 21 March 1985. ([Proceedings](https://www.peeters-leuven.be/detail.php?search_key=9789068310498&series_number_str=3&lang=en).|
 
 ## 3.  Workshops organised under the aegis of the AIEA
 
-|   |   |   |
-|---|---|---|
-|2013|Testi greci e tradizione armena, Genoa, 21–22 October 2013. ([Programme](https://sites.uclouvain.be/aiea/wp-content/uploads/2014/03/Genova2013.pdf))|
+|   |   |
+|---|---|
+|2013|Testi greci e tradizione armena, Genoa, 21–22 October 2013. ([Programme](/public/programme_genova_2013.pdf))|
 |2010|Archéologie et patrimoine culturel en Arménie, Rouen, 11–12 March 2010.|
 |2007|Les arts libéraux et les sciences dans l’Arménie ancienne et médiévale, Geneva, 8 December 1997|
 |2005|Armenian Syntax, Pithiviers, 23–25 May 2005|
