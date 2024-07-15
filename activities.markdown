@@ -32,14 +32,14 @@ permalink: /activities/
 | | |
 |------|-------------|
 |2019|International conference “Armenian Eastern Parts (Artsakh, Utik): History and Culture”, Gandzasar, Artsakh, 26–27 August 2019; joint-organization AIEA-Matenadaran. ([Proceedings](https://www.matenadaran.am/ftp/data/Banber-29.pdf))|
-|2018|[Il viaggio in Armenia dall’Antichità ai nostri giorni](https://www.unive.it/data/33113/1/23655), Università di Venezia Ca’ Foscari, 29–30 octobre 2018.|
+|2018|[Il viaggio in Armenia dall’Antichità ai nostri giorni](https://www.unive.it/data/33113/1/23655), Università di Venezia Ca’ Foscari, 29–30 October 2018.|
 |2018|Workshop on Sciences and Learning in Armenian between Anania Širakac‘i and Grigor Magistros, Gyumri, 5–6 October 2018. ([Programme](/public/programme_gyumri_2018.pdf) – [Abstracts](/public/abstracts_gyumri_2018.pdf))|
 |2013|Workshop on Armenian folklore and mythology, Harvard University, 31 August – 1 September 2013. ([Programme](/public/programme_harvard_2013.pdf))|
 |2013|Journée d’études en l’honneur de Nina Garsoïan Paris, 12 April 2013. ([Programme](/public/programme_paris_2013.pdf))|
 |2012|Colofoni armeni a confronto, Bologna, 12–13 October 2012. ([Programme](/public/programme_bologna_2012.pdf) – [Proceedings](https://www.orientaliachristiana.it/orientalia-christiana-analecta.htm#:~:text=299.%20Anna,pp.%20454%2C%20%E2%82%AC%2043%2C00))|
 |1998|Classical Culture in the Oriental Languages : Text and Transmission NIAS, Wassenaar, 13–16 May 1998.|
 |1997|La littérature apocryphe en langue arménienne, Geneva, 19–20 September 1997 (AIEA and [AELAC](http://www2.unil.ch/aelac/) – [Proceedings](https://www.zebre.ch/edznet/index.htm))|
-|1995|Translation Techniques, Neuchâtel, 8–10 Septembre 1995.|
+|1995|Translation Techniques, Neuchâtel, 8–10 September 1995.|
 |1993|New Approaches to Middle Armenian Language and Literature, Leiden, 25–27 March 1993.|
 |1992|The Hellenizing School, Milano, 7-9 September 1992.|
 |1990|The Armenian Bible, Heidelberg, 16–19 July 1990. ([Proceedings](https://www.peeters-leuven.be/detail.php?search_key=9781555405977&series_number_str=12&lang=en))|
