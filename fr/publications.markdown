@@ -98,7 +98,7 @@ Tous les membres de l'AIEA peuvent envoyer à l'éditeur des informations (activ
 ## 4. D'autres publications et ressources 
 
 - [Uluhogian  (1987) Bibliography of Armenian Dictionaries (Bibliographie des dictionnaires arméniens)](/public/uluhogian1987.pdf)
-- [Liste des sigles pour désigner les manuscrits arméniens](/public/armenian-mss.sigla.pdf)
+- [Liste des sigles pour désigner les manuscrits arméniens](/public/armenian-mss-sigla.pdf)
 - [Le 500e anniversaire de l’imprimerie arménienne (par Valentina Calzolari)](/public/500-armenian-printing.pdf)
 - [In memoriam Hrachya Tamrazyan (par Valentina Calzolari)](/public/in-memoriam-Tamrazyan.pdf)
 

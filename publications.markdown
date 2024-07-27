@@ -99,7 +99,7 @@ All AIEA members can send the editor any information (activities, awards, person
 ## 4. Other publications and resources
 
 - [Uluhogian  (1987) Bibliography of Armenian Dictionaries](/public/uluhogian1987.pdf)
-- [List of abbreviations for the designation of Armenian manuscripts](/public/armenian-mss.sigla.pdf)
+- [List of abbreviations for the designation of Armenian manuscripts](/public/armenian-mss-sigla.pdf)
 - [Valentina Calzolari on the 500th anniversary of Armenian printing](/public/500-armenian-printing.pdf)
 - [In memoriam Hrachya Tamrazyan (by Valentina Calzolari)](/public/in-memoriam-Tamrazyan.pdf)
 

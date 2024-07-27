@@ -98,7 +98,7 @@ permalink: /publications/
 ## 4. Other publications and resources
 
 - [Uluhogian  (1987) Bibliography of Armenian Dictionaries (Հայերէն բառարանների մատենագիտութիւն)](/public/uluhogian1987.pdf)
-- [Հայերէն ձեռագրերի նշանակման հապաւումների ցանկ](/public/armenian-mss.sigla.pdf)
+- [Հայերէն ձեռագրերի նշանակման հապաւումների ցանկ](/public/armenian-mss-sigla.pdf)
 - [Հայ գրատպութեան 500-ամյակը (Վալենտինա Կալցոլարի)](/public/500-armenian-printing.pdf)
 - [Հրաչեա Թամրազեանի յիշատակին (Վալենտինա Կալցոլարի)](/public/in-memoriam-Tamrazyan.pdf)
 
