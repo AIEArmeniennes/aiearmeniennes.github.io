@@ -15,9 +15,9 @@ The AIEA has three categories of membership:
 
 ## Becoming a member
 
-To become a member of the AIEA, an application (covering letter and curriculum vitae) must be sent to the Secretary of the association, specifying the category of membership. Applications for full and associate membership must be supported in writing by two full members of the AIEA. The Committee may itself propose the candidature of a new member.
+To become a member of the AIEA, an application ([application form](/assets/ApplFormAIEAEng.doc), covering letter and curriculum vitae) must be sent to the Secretary of the association, specifying the category of membership. Applications for full and associate membership must be supported in writing by two full members of the AIEA. Applications for student membership do not require support, although the applicant must be a registered student with a focus on Armenian studies.
 
-To become a student member, an application, including a curriculum vitae, must be sent to the AIEA Secretary.
+The Committee may itself propose the candidature of a new member.
 
 An annual membership fee must be paid, to an account indicated to each member according to their nationality or place of residence. The membership fee is paid according to the calendar year.
 
@@ -42,6 +42,5 @@ Membership can also be paid for five years:
 Bank accounts:
 
 - Italy: (Dr. Irene Tinti) UniCredit Banca, Filiale Rovato Bonomelli, Conto: 000104600908 (IBAN: IT 54S0200855143000104600908; BIC: UNCRITM1033)
-- Belgium: (Prof. Bernard Coulie) BNP Paribas Fortis 271-7228768-69 (IBAN: BE71 2717 2287 6869; BIC: GEBABEBB)
 - France: (Dr. Agnès Ouzounian) PAR 57 216 15 C (IBAN: FR42 2004 1000 0157 2161 5C02 080; BIC: PSSTFRPPPAR); Agnès Ouzounian, 83 rue Estienne d’Orves, F-93110 Rosny-sous-Bois, France
 - Armenia: (Dr. Nazenie Garibian) Araratbank OJSC, 19 Pushkin Street, Yerevan, RA, Account Nr 1510 0346 8635 0200 (SWIFT: ARMCAM22)

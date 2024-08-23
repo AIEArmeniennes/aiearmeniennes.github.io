@@ -15,7 +15,9 @@ L'AIEA comprend trois catégories de membres :
 
 ## Comment devenir membre ?
 
-Pour devenir membre de l’AIEA, il faut en adresser la demande (lettre de motivation et curriculum vitae) au secrétariat de l’association, en précisant la catégorie d’affiliation. Les demandes des membres effectifs et des membres associés doivent être introduites par deux membres effectifs de l’AIEA. Le Comité peut lui-même proposer la candidature d’un nouveau membre.
+Pour devenir membre de l’AIEA, il faut en adresser la demande ([formulaire de demande](/assets/ApplFormAIEAFr.doc), lettre de motivation et curriculum vitae) au secrétariat de l’association, en précisant la catégorie d’affiliation. Les demandes des membres effectifs et des membres associés doivent être introduites par deux membres effectifs de l’AIEA. Les demandes des membres étudiants ne nécessitent pas d'introduction, mais le candidat doit être étudiant(e) inscrit(e) qui s'intéresse aux études arméniennes.
+
+Le Comité peut lui-même proposer la candidature d’un nouveau membre.
 
 Le passage de membre étudiant à membre effectif nécessite l’envoi d’une demande, assortie d’un curriculum vitae, au secrétariat de l’association.
 
@@ -42,6 +44,5 @@ Membership can also be paid for five years:
 Comptes bancaires de l’AIEA:
 
 - Italie: (Dr. Irene Tinti) UniCredit Banca, Filiale Rovato Bonomelli, Conto: 000104600908 (IBAN: IT 54S0200855143000104600908; BIC: UNCRITM1033)
-- Belgique: (Prof. Bernard Coulie) BNP Paribas Fortis 271-7228768-69 (IBAN: BE71 2717 2287 6869; BIC: GEBABEBB)
 - France: (Dr. Agnès Ouzounian) PAR 57 216 15 C (IBAN: FR42 2004 1000 0157 2161 5C02 080; BIC: PSSTFRPPPAR); Agnès Ouzounian, 83 rue Estienne d’Orves, F-93110 Rosny-sous-Bois, France
 - Arménie: (Dr. Nazenie Garibian) Araratbank OJSC, 19 Pushkin Street, Yerevan, RA, Account Nr 1510 0346 8635 0200 (SWIFT: ARMCAM22)
