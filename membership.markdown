@@ -45,4 +45,4 @@ Bank accounts:
 - France: (Dr. Agnès Ouzounian) PAR 57 216 15 C (IBAN: FR42 2004 1000 0157 2161 5C02 080; BIC: PSSTFRPPPAR); Agnès Ouzounian, 83 rue Estienne d’Orves, F-93110 Rosny-sous-Bois, France
 - Armenia: (Prof. N. Garibian) Ameriabank, Moskovyan branch, 48 Ave. Mashtots, Yerevan, 0002, Republic of Armenia, Account n. 1570028512180100 (SWIFT/BIC: ARMIAM22); Intermediary bank: Citibank NA, New York (SWIFT/BIC: CITIUS33). [Please note that this is a new bank account; the previous Armenian account is no longer in use.]
 
-  If in doubt, members are asked to get in touch with the Treasurer.
+Members wishing to pay their dues via PayPal or who have any doubts are asked to get in touch with the treasurer, [Dr Irene Tinti](mailto:irene.tinti.82@gmail.com).
