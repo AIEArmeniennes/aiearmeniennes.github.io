@@ -47,4 +47,4 @@ Comptes bancaires de l’AIEA:
 - France: (Dr. Agnès Ouzounian) PAR 57 216 15 C (IBAN: FR42 2004 1000 0157 2161 5C02 080; BIC: PSSTFRPPPAR); Agnès Ouzounian, 83 rue Estienne d’Orves, F-93110 Rosny-sous-Bois, France
 - Arménie: (Prof. N. Garibian) Ameriabank, agence Moskovyan, 48 Ave. Mashtots, Yerevan, 0002, République d'Arménie, compte 1570028512180100 (SWIFT/BIC: ARMIAM22); banque intermédiaire: Citibank NA, New York (SWIFT/BIC: CITIUS33). [Veuillez noter qu'il s'agit d'un nouveau compte; l'ancien n'est plus utilisé.]
 
-Les membres qui ne sont pas sûrs peuvent s'adresser à la trésorière.
+Les membres qui souhaitent payer via PayPal ou qui ne sont pas sûrs peuvent s'adresser à la trésorière, [Dr Irene Tinti](mailto:irene.tinti.82@gmail.com).
