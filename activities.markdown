@@ -4,7 +4,7 @@ lang: en
 title: Activities
 permalink: /activities/
 ---
-
+— This page is still under construction. —
 ## 1. General Conferences
 
 | | |
