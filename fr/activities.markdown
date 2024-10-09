@@ -51,6 +51,11 @@ permalink: /activities/
 
 |   |   |
 |---|---|
+|2024|Spaces, Landscapes and Social Lives of the Cross in Medieval Armenia and Georgia, Fribourg, 6–7 novembre 2024. ([Programme](/public/programme_fribourg_2024.pdf))|
+|2024|Medieval Armenian Sculpture at the Crossroads of Artistic Traditions, online, 11 octobre 2024. ([Programme](/public/programme_online_2024.pdf))|
+|2024|Places of Faith, Places of Memory – Sacral Topography in the Pre-Modern Caucasus, Vienna, 3–5 octobre 2024. ([Programme](/public/programme_vienna_2024.pdf))|
+|2024|Armenian Literary Horizons: The Readers and Textual Trends in the Early Modern Period, Erevan, 26 juillet 2024. ([Programme](/public/programme_erevan_2024.pdf))|
+|2023|Armenian cultural heritage: identification, documentation, handling, Tsaghkunk, 26–28 octobre 2023.|
 |2013|Testi greci e tradizione armena, Gênes, 21–22 octobre 2013. ([Programme](/public/programme_genova_2013.pdf))|
 |2010|Archéologie et patrimoine culturel en Arménie, Rouen, 11–12 March 2010.|
 |2007|Les arts libéraux et les sciences dans l’Arménie ancienne et médiévale, Genève, 8 décembre 1997|
