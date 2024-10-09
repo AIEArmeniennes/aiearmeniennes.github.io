@@ -4,7 +4,7 @@ lang: fr
 title: Activités
 permalink: /activities/
 ---
-
+– Cette page est encore en construction. –
 ## 1. Congrès généraux
 
 | | |
