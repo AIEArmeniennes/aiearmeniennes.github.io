@@ -94,6 +94,7 @@ Tous les membres de l'AIEA peuvent envoyer à l'éditeur des informations (activ
 - [Newsletter n°54](https://raw.githubusercontent.com/AIEArmeniennes/newsletters/main/aiea_newsletter_54.pdf)
 - [Newsletter n°55](https://raw.githubusercontent.com/AIEArmeniennes/newsletters/main/aiea_newsletter_55.pdf)
 - [Newsletter n°56](https://raw.githubusercontent.com/AIEArmeniennes/newsletters/main/aiea_newsletter_56.pdf)
+- [Newsletter n°57](https://raw.githubusercontent.com/AIEArmeniennes/newsletters/main/aiea_newsletter_57.pdf)
 
 ## 4. D'autres publications et ressources 
 

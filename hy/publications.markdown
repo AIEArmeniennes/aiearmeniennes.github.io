@@ -94,6 +94,7 @@ permalink: /publications/
 - [Տեղեկագիր n°54](https://raw.githubusercontent.com/AIEArmeniennes/newsletters/main/aiea_newsletter_54.pdf)
 - [Տեղեկագիր n°55](https://raw.githubusercontent.com/AIEArmeniennes/newsletters/main/aiea_newsletter_55.pdf)
 - [Տեղեկագիր n°56](https://raw.githubusercontent.com/AIEArmeniennes/newsletters/main/aiea_newsletter_56.pdf)
+- [Տեղեկագիր n°57](https://raw.githubusercontent.com/AIEArmeniennes/newsletters/main/aiea_newsletter_57.pdf)
 
 ## 4. Other publications and resources
 
