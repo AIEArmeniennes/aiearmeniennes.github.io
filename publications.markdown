@@ -96,6 +96,7 @@ All AIEA members can send the editor any information (activities, awards, person
 - [Newsletter n°55](https://raw.githubusercontent.com/AIEArmeniennes/newsletters/main/aiea_newsletter_55.pdf)
 - [Newsletter n°56](https://raw.githubusercontent.com/AIEArmeniennes/newsletters/main/aiea_newsletter_56.pdf)
 - [Newsletter n°57](https://raw.githubusercontent.com/AIEArmeniennes/newsletters/main/aiea_newsletter_57.pdf)
+- [Newsletter n°58](https://github.com/AIEArmeniennes/newsletters/blob/2aa15971f3d9f40b67790cfd4767d688fe86105a/AIEA%20Newsletter%2058.pdf)
 
 ## 4. Other publications and resources
 
