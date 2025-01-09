@@ -4,7 +4,7 @@ title: Albanian script
 listtitle: Albanian script
 author: Jost Gippert
 ---
-## Jost Gippert (University of Hamburg)
+*Jost Gippert (University of Hamburg)*
 
 The development of an individual script matching a remarkably complex
 sound system was a prerequisite for the emergence of literacy in the
@@ -29,13 +29,13 @@ transcription below each of them, comprised 52 characters (see Figures
 Georgian and Coptic scripts, is highlighted).
 
 <figure>
-  <img src=/public/albscript1.jpg">
-  <figcaption>Ms. Yerevan, Matenadaran, 7117, fol. 145r</figcaption>
+  <img src=/public/albscript1.jpg" alt="Ms. Yerevan, Matenadaran, 7117, fol. 145r">
+  <figcaption>Fig. 1: Ms. Yerevan, Matenadaran, 7117, fol. 145r</figcaption>
 </figure>
 
 <figure>
-  <img src=/public/albscript2.jpg">
-  <figcaption>Same, fol. 145v</figcaption>
+  <img src=/public/albscript2.jpg" alt="Same, fol. 145v">
+  <figcaption>Fig. 2: Same, fol. 145v</figcaption>
 </figure>
 
 Even though both the letter shapes and the Armenian transcripts of the
@@ -242,7 +242,7 @@ height="0.1896926946631671in"}as in the alphabet list but
 ![](media/image56.png){width="0.1968503937007874in"
 height="0.1968503937007874in"}.
 
-## Bibliography
+### Bibliography
 
 Abeghyan, M. (Մանուկ Աբեղյան), *Վարք Մաշտոցի* \[*The Life of
 Mashtots*\]. Yerevan: Haypetrat 1941. Repr. 1985 in Koriwn. *Varkʿ
