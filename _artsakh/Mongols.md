@@ -4,7 +4,7 @@ listtitle: Mongols
 title: Un grand prince arménien sous les Mongols
 author: Claude Mutafian
 ---
-## Claude Mutafian (PhD History)
+*Claude Mutafian (PhD History)*
 
 Au début du XIII<sup>e</sup> siècle le royaume d'Arménie, qui se trouvait en
 Cilicie, était sous la menace du puissant sultanat turc d'Asie Mineure
@@ -25,8 +25,8 @@ Hétՙoum I^er^ décida de jouer sa politique d'alliance mongole contre les
 Turcs.
 
 <figure>
-  <img src="/public/mongols1.jpg">
-  <figcaption>Le Proche-Orient en 1220</figcaption>
+  <img src="/public/mongols1.jpg" alt="Le Proche-Orient en 1220">
+  <figcaption>Fig. 1: Le Proche-Orient en 1220</figcaption>
 </figure>
 
 Au début de la longue inscription gravée sur le mur intérieur du
@@ -54,14 +54,14 @@ je suis rentré chez moi au bout de cinq ans* (Fig. 7) . Il se rendit
 ensuite à Tabriz, où il apprit le décès de son épouse.
 
 <figure>
-  <img src="/public/mongols2.jpg">
-  <figcaption>La généalogie de Hasan Djalal</figcaption>
+  <img src="/public/mongols2.jpg" alt="La généalogie de Hasan Djalal">
+  <figcaption>Fig. 2: La généalogie de Hasan Djalal</figcaption>
 </figure>
 
 
 <figure>
-  <img src="/public/mongols3.jpg">
-  <figcaption>Le monastère de Gandzasar</figcaption>
+  <img src="/public/mongols3.jpg" alt="Le monastère de Gandzasar">
+  <figcaption>Fig. 3: Le monastère de Gandzasar</figcaption>
 </figure>
 
 Les affaires se gâtèrent lorsqu'en 1260 l'armée mongole subit sa
@@ -80,13 +80,13 @@ et pieux, lui qui avait fini sa vie en gardant sa foi*. Son fils réussit
 
 
 <figure>
-  <img src="/public/mongols4.jpg">
-  <figcaption>L’inscription à l’intérieur du monastère</figcaption>
+  <img src="/public/mongols4.jpg" alt="L’inscription à l’intérieur du monastère">
+  <figcaption>Fig. 4: L’inscription à l’intérieur du monastère</figcaption>
 </figure>
 
 <figure>
-  <img src="/public/mongols5.jpg">
-  <figcaption>La transcription du haut de l’inscription</figcaption>
+  <img src="/public/mongols5.jpg" alt="La transcription du haut de l’inscription">
+  <figcaption>Fig. 5: La transcription du haut de l’inscription</figcaption>
 </figure>
 
 Hasan Djalal reste aussi, suivi en cela par ses descendants, comme un
@@ -94,16 +94,16 @@ grand bâtisseur, même hors de l'Artsakh, et de très nombreuses
 inscriptions couvrent les murs de ses monuments.
 
 <figure>
-  <img src="/public/mongols6.jpg">
-  <figcaption>Le colophon du manuscrit 378 du Maténadaran, 1</figcaption>
+  <img src="/public/mongols6.jpg" alt="Le colophon du manuscrit 378 du Maténadaran, 1">
+  <figcaption>Fig. 6: Le colophon du manuscrit 378 du Maténadaran, 1</figcaption>
 </figure>
 
 <figure>
-  <img src="/public/mongols7.jpg">
-  <figcaption>Le colophon du manuscrit 378 du Maténadaran, 2</figcaption>
+  <img src="/public/mongols7.jpg" alt="Le colophon du manuscrit 378 du Maténadaran, 2">
+  <figcaption>Fig. 7: Le colophon du manuscrit 378 du Maténadaran, 2</figcaption>
 </figure>
 
-## Bibliographie
+### Bibliographie
 
 Adjarian = Hratchia Adjarian, *Hayots andznanounnéri baŕaran*\*, t. III,
 Erevan, 1946.
