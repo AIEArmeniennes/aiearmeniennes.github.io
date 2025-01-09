@@ -146,7 +146,7 @@ prevented changes right from the beginning. It is therefore highly
 probable that the Albanian alphabet was modelled on the Armenian but the
 Georgian was not. Table 2 shows the four alphabets in synopsis, arranged
 after the Greek with the individual additions indicated by different
-colours.\[Gippert et al. 2008, II--16-17\]
+colours; a [PDF version is also available](/public/Alb-alphabet.pdf).\[Gippert et al. 2008, II--16-17\]
 
 |      Greek     |                 |               |      Georgian     |                 |               |               |      Armenian     |                 |               |               | Albanian      |                 |               |               |
 |----------------|-----------------|---------------|-------------------|-----------------|---------------|---------------|-------------------|-----------------|---------------|---------------|---------------|-----------------|---------------|---------------|
