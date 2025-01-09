@@ -4,7 +4,7 @@ listtitle: Udi language
 title: Udi language
 author: Jost Gippert
 ---
-## Jost Gippert (University of Hamburg)
+*Jost Gippert (University of Hamburg)*
 
 As a member of the Lezgic branch of the (North-)East Caucasian family,
 the language of the Udis, a minority people mostly living in Northern
@@ -12,7 +12,7 @@ Azerbaijan, is peculiar in several respects: it is not only the Lezgic
 language with the western-most localisation but also the one that can be
 proven to be the closest relative (if not direct descendant) of the only
 East Caucasian language with a written record from Late Antiquity and
-the Middle Ages, namely, the \>\> *Albanian language* of the Caucasus.
+the Middle Ages, namely, the [Albanian language](/artsakh/Alb-lang.html) of the Caucasus.
 The name of the Udis (self-designation *udiyux*) is likely to reflect
 the name of the antique province of *Ōtēnē*, Armenian *Utikʽ*, which
 suggests a migration of the ancestors of the Udis towards the north
@@ -41,7 +41,7 @@ translation into Nij Udi is at present being worked out (see
 <https://www.udibibliya.com/en/welcome/>).
 
 During the long period of illiterateness after the abandonment of the
-\>\> *Albanian script*, the Udi language must have undergone
+[Albanian script](/artsakh/Alb-script.html), the Udi language must have undergone
 considerable influences from the dominant language of the region in
 question, Azeri, as well as, to a certain extent, Russian. This is
 especially true of its lexicon: not only names of tools, materials etc.
