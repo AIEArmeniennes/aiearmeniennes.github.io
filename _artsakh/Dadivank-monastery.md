@@ -4,7 +4,7 @@ title: Dadivankʻ Monastery (late 12<sup>th</sup>–13<sup>th</sup> centuries)
 listtitle: Dadivankʻ Monastery
 author: Patrick Donabédian
 ---
-## Patrick Donabédian (Aix-Marseille University)
+*Patrick Donabédian (Aix-Marseille University)*
 
 The monastery of St Dad (Dadi, Dadē) or Dadivankʻ, also called
 Khutʻavankʻ, is located on a flat area overlooking the left bank of the
@@ -20,8 +20,8 @@ Khachʻēn. The complex was the subject of a major excavation and
 restoration campaign from 1997 to 2011.
 
 <figure>
-  <img src="/public/dadivank1.jpg">
-  <figcaption>Dadivankʻ monastery (late 12th-13th century), Artsʻakh. General plan: S. Ayvazyan, after: Ayvazyan & Sargsyan 2012, p. 2, revised by P. Donabédian and L. Maggiori, LA3M</figcaption>
+  <img src="/public/dadivank1.jpg" alt="Dadivankʻ monastery (late 12th-13th century), Artsʻakh. General plan: S. Ayvazyan, after: Ayvazyan & Sargsyan 2012, p. 2, revised by P. Donabédian and L. Maggiori, LA3M">
+  <figcaption>Fig. 1: Dadivankʻ monastery (late 12th-13th century), Artsʻakh. General plan: S. Ayvazyan, after: Ayvazyan & Sargsyan 2012, p. 2, revised by P. Donabédian and L. Maggiori, LA3M</figcaption>
 </figure>
 
 Dadivankʻ is one of the largest conventual complexes in medieval
@@ -36,13 +36,13 @@ south-west (with, in particular, a two-storey hostelry), completed with
 an oil press and a cellar.
 
 <figure>
-  <img src="/public/dadivank2.jpg">
-  <figcaption>Dadivankʻ monastery (late 12th-13th century), Artsʻakh. Aerial view from the southwest, without the southwestern residential group. Photo: H.H. Khatcherian</figcaption>
+  <img src="/public/dadivank2.jpg" alt="Dadivankʻ monastery (late 12th-13th century), Artsʻakh. Aerial view from the southwest, without the southwestern residential group. Photo: H.H. Khatcherian">
+  <figcaption>Fig. 2: Dadivankʻ monastery (late 12th-13th century), Artsʻakh. Aerial view from the southwest, without the southwestern residential group. Photo: H.H. Khatcherian</figcaption>
 </figure>
 
 <figure>
-  <img src="/public/dadivank3.jpg">
-  <figcaption>Dadivankʻ monastery, Artsʻakh. Main church (Katʻoghikē), 1214. General view from the northeast. Photo: H.H. Khatcherian</figcaption>
+  <img src="/public/dadivank3.jpg" alt="Dadivankʻ monastery, Artsʻakh. Main church (Katʻoghikē), 1214. General view from the northeast. Photo: H.H. Khatcherian">
+  <figcaption>Fig. 3: Dadivankʻ monastery, Artsʻakh. Main church (Katʻoghikē), 1214. General view from the northeast. Photo: H.H. Khatcherian</figcaption>
 </figure>
 
 In the northern part of the worship group, a large and wide single-nave
@@ -60,8 +60,8 @@ half has rather squat proportions, counterbalanced by the height of the
 large 14-sided drum with a pyramidal dome.
 
 <figure>
-  <img src="/public/dadivank4.jpg">
-  <figcaption>Dadivankʻ monastery, Artsʻakh. Main church (Katʻoghikē), 1214. Top of the south façade. Probably, the two deceased sons of the sponsor. Photo: H.H. Khatcherian</figcaption>
+  <img src="/public/dadivank4.jpg" alt="Dadivankʻ monastery, Artsʻakh. Main church (Katʻoghikē), 1214. Top of the south façade. Probably, the two deceased sons of the sponsor. Photo: H.H. Khatcherian">
+  <figcaption>Fig. 4: Dadivankʻ monastery, Artsʻakh. Main church (Katʻoghikē), 1214. Top of the south façade. Probably, the two deceased sons of the sponsor. Photo: H.H. Khatcherian</figcaption>
 </figure>
 
 The church is the only one to be clad in carefully hewn blocks and is
@@ -112,8 +112,8 @@ destruction or amputation, these two masterpieces were transferred to
 Ējmiatsin.
 
 <figure>
-  <img src="/public/dadivank5.jpg">
-  <figcaption>Dadivankʻ monastery, Artsʻakh. Main church (Katʻoghikē), 1214. South wall, painting depicting the Enthronement of Saint Nicholas (1297). Photo: H.H. Khatcherian</figcaption>
+  <img src="/public/dadivank5.jpg" alt="Dadivankʻ monastery, Artsʻakh. Main church (Katʻoghikē), 1214. South wall, painting depicting the Enthronement of Saint Nicholas (1297). Photo: H.H. Khatcherian">
+  <figcaption>Fig. 5: Dadivankʻ monastery, Artsʻakh. Main church (Katʻoghikē), 1214. South wall, painting depicting the Enthronement of Saint Nicholas (1297). Photo: H.H. Khatcherian</figcaption>
 </figure>
 
 Further south, in the centre of the second group, a large hall with a
@@ -128,11 +128,11 @@ buildings were erected at the same time, at a relatively early date,
 towards the end of the 12<sup>th</sup> century.
 
 <figure>
-  <img src="/public/dadivank6.jpg">
-  <figcaption>Dadivankʻ monastery, Artsʻakh. Bell-tower, khachʻkʻars, 1283. Photo: H.H. Khatcherian</figcaption>
+  <img src="/public/dadivank6.jpg" alt="Dadivankʻ monastery, Artsʻakh. Bell-tower, khachʻkʻars, 1283. Photo: H.H. Khatcherian">
+  <figcaption>Fig. 6: Dadivankʻ monastery, Artsʻakh. Bell-tower, khachʻkʻars, 1283. Photo: H.H. Khatcherian</figcaption>
 </figure>
 
-## Bibliography
+### Bibliography
 
 Ayvazyan, S. / Այվազյան, Ս., *Դադի վանքի վերականգնումը 1997--2011 թթ.*
 \[The restoration of the monastery of Dad in 1997--2011\], RAA 17,
