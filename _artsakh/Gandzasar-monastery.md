@@ -4,7 +4,7 @@ listtitle: Gandzasar Monastery
 title: Gandzasar Monastery (13<sup>th</sup> century)
 author: Patrick Donabédian
 ---
-## Patrick Donabédian (Aix-Marseille University)
+*Patrick Donabédian (Aix-Marseille University)*
 
 Mentioned in the 10<sup>th</sup> and 12<sup>th</sup> centuries as the episcopal seat of
 the principality of Khachʻēn, the monastery was built mainly in the
@@ -17,8 +17,8 @@ were at the forefront of the movement of liberation of Armenia from
 Persian and Ottoman domination.
 
 <figure>
-  <img src="/public/gandzasar1.jpg">
-  <figcaption>Gandzasar monastery (1216-1261/66), Artsʻakh. Plan of the central core (church and narthex), after Ulubabian & Hasratian 1987, p. 61</figcaption>
+  <img src="/public/gandzasar1.jpg" alt="Gandzasar monastery (1216-1261/66), Artsʻakh. Plan of the central core (church and narthex), after Ulubabian & Hasratian 1987, p. 61">
+  <figcaption>Fig. 1: Gandzasar monastery (1216-1261/66), Artsʻakh. Plan of the central core (church and narthex), after Ulubabian & Hasratian 1987, p. 61</figcaption>
 </figure>
 
 Gandzasar is a classic example of the core of medieval Armenian
@@ -35,8 +35,8 @@ son Atʻabak, and completed by the latter in 1261 (or 1266), after the
 death of his father in 1260 or 1261.
 
 <figure>
-  <img src="/public/gandzasar2.jpg">
-  <figcaption>Gandzasar monastery (1216-1261/66), Artsʻakh. Central core: the church and the narthex (zhamatun/gawitʻ) viewed from the south-southeast. Photo: H.H. Khatcherian</figcaption>
+  <img src="/public/gandzasar2.jpg" alt="Gandzasar monastery (1216-1261/66), Artsʻakh. Central core: the church and the narthex (zhamatun/gawitʻ) viewed from the south-southeast. Photo: H.H. Khatcherian">
+  <figcaption>Fig. 2: Gandzasar monastery (1216-1261/66), Artsʻakh. Central core: the church and the narthex (zhamatun/gawitʻ) viewed from the south-southeast. Photo: H.H. Khatcherian</figcaption>
 </figure>
 
 These long works resulted in an exceptional quality of the edifices. The
@@ -54,8 +54,8 @@ medieval architecture, the umbrella finds here one of its most
 outstanding manifestations.
 
 <figure>
-  <img src="/public/gandzasar3.jpg">
-  <figcaption>Gandzasar monastery. Church of St-John the Baptist / Surb Yovhannēs Mkrtichʻ (1216-1238). Gable of the west façade. Photo: H. H. Khatcherian</figcaption>
+  <img src="/public/gandzasar3.jpg" alt="Gandzasar monastery. Church of St-John the Baptist / Surb Yovhannēs Mkrtichʻ (1216-1238). Gable of the west façade. Photo: H. H. Khatcherian">
+  <figcaption>Fig. 3: Gandzasar monastery. Church of St-John the Baptist / Surb Yovhannēs Mkrtichʻ (1216-1238). Gable of the west façade. Photo: H. H. Khatcherian</figcaption>
 </figure>
 
 The carved decoration is unusually abundant and of great diversity and
@@ -85,8 +85,8 @@ of the drum. Their small size is compensated by their rather strong
 projection.
 
 <figure>
-  <img src="/public/gandzasar4.jpg">
-  <figcaption>Gandzasar monastery. Church of St-John the Baptist / Surb Yovhannēs Mkrtichʻ (1216-1238). Donors on two west sides of the drum (west-northwest and west-southwest). Photos: Z. Sargsyan</figcaption>
+  <img src="/public/gandzasar4.jpg" alt="Gandzasar monastery. Church of St-John the Baptist / Surb Yovhannēs Mkrtichʻ (1216-1238). Donors on two west sides of the drum (west-northwest and west-southwest). Photos: Z. Sargsyan">
+  <figcaption>Fig. 4: Gandzasar monastery. Church of St-John the Baptist / Surb Yovhannēs Mkrtichʻ (1216-1238). Donors on two west sides of the drum (west-northwest and west-southwest). Photos: Z. Sargsyan</figcaption>
 </figure>
 
 The façades are enriched by an arcade whose enlarged central portion is
@@ -105,8 +105,8 @@ roll of the four central arches, the base belt of the drum and its
 cylindrical inner wall.
 
 <figure>
-  <img src="/public/gandzasar5.jpg">
-  <figcaption>Gandzasar monastery. Church of St-John the Baptist / Surb Yovhannēs Mkrtichʻ (1216-1238). Internal view towards the apse. Photo: H.H. Khatcherian</figcaption>
+  <img src="/public/gandzasar5.jpg" alt="Gandzasar monastery. Church of St-John the Baptist / Surb Yovhannēs Mkrtichʻ (1216-1238). Internal view towards the apse. Photo: H.H. Khatcherian">
+  <figcaption>Fig. 5: Gandzasar monastery. Church of St-John the Baptist / Surb Yovhannēs Mkrtichʻ (1216-1238). Internal view towards the apse. Photo: H.H. Khatcherian</figcaption>
 </figure>
 
 The narthex (*zhamatun,* or *gawitʻ*) is, as usual, a little wider and
@@ -129,8 +129,8 @@ Minor. The four-sloped roof of the *zhamatun* and the hexastyle lantern
 above it were rebuilt in 1907.
 
 <figure>
-  <img src="/public/gandzasar6.jpg">
-  <figcaption>Gandzasar monastery. Narthex (zhamatun / gawitʻ), ca. 1240-1261/1266. Internal view towards the east. Photo: H.H. Khatcherian</figcaption>
+  <img src="/public/gandzasar6.jpg" alt="Gandzasar monastery. Narthex (zhamatun / gawitʻ), ca. 1240-1261/1266. Internal view towards the east. Photo: H.H. Khatcherian">
+  <figcaption>Fig. 6: Gandzasar monastery. Narthex (zhamatun / gawitʻ), ca. 1240-1261/1266. Internal view towards the east. Photo: H.H. Khatcherian</figcaption>
 </figure>
 
 On the outside, the *zhamatun* is distinguished by the considerable size
@@ -151,11 +151,11 @@ building, completing the series of steps that underline and strengthen
 the base of this imposing construction.
 
 <figure>
-  <img src="/public/gandzasar7.jpg">
-  <figcaption>Gandzasar monastery. Narthex (zhamatun / gawitʻ), ca. 1240-1261/1266. Portal of the west façade. Photo: Z. Sargsyan</figcaption>
+  <img src="/public/gandzasar7.jpg" alt="Gandzasar monastery. Narthex (zhamatun / gawitʻ), ca. 1240-1261/1266. Portal of the west façade. Photo: Z. Sargsyan">
+  <figcaption>Fig. 7: Gandzasar monastery. Narthex (zhamatun / gawitʻ), ca. 1240-1261/1266. Portal of the west façade. Photo: Z. Sargsyan</figcaption>
 </figure>
 
-## Bibliography
+### Bibliography
 
 Cuneo, P., *Architettura armena*, I, Rome: De Luca, 1988. On Gandzasar:
 p. 443-445.
