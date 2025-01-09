@@ -15,7 +15,7 @@ north-east of antique Armenia, as Ἀλβανία and its inhabitants as
 ἄλβανοι, a designation that is also concealed in the Armenian name,
 *Aghuankʽ* \[Bais 2001 and 2023; Dum-Tragut/Gippert 2023\]; there is no
 relation with the (Indo-European) Albanian language of the Balkans. Even
-though the existence of the \>\> *Albanian script* and Christian texts
+though the existence of the [Albanian script](/artsakh/Alb-script.html) and Christian texts
 written in it had been a topos since Antiquity, esp. in the historical
 accounts of Koryun and other Armenian authors, it took until 1832 for
 the first elements of the Albanian language to be identified in a list
@@ -24,7 +24,7 @@ of Paris (BNF, arménien 252, 43v)\[Brosset 1832; Gippert et al. 2008,
 II-94-95; Gippert 2023, 221-225\], and the first specimen of written
 Albanian came to light only in 1937 when an alphabet list of the
 *Aghuankʽ* was detected in a 13<sup>th</sup>-century Armenian manuscript of the
-Matenadaran in Yerevan (M 7337, 145rv) (see \>\> *Albanian script*). A
+Matenadaran in Yerevan (M 7337, 145rv) (see [Albanian script](/artsakh/Alb-script.html)). A
 few years later, in 1948, some inscriptions whose letters bore enough
 similarities with the alphabet list to be regarded as Albanian were
 unearthed near the Kura reservoir in Mingachevir \[Qaziyev 1948,
@@ -41,13 +41,12 @@ Isaiah together with Psalm verses, the structure and the lexicon of the
 Albanian language have meanwhile been established with certainty
 \[Gippert et al. 2008, II-1-84 and IV-1-71; Gippert/Schulze 2023\]. It
 is clear now that the Albanian language was a member of the (North-)East
-Caucasian family, more exactly its Lezgic branch, with the modern \>\>
-Udi language being its closest relative (if not its direct descendant)
+Caucasian family, more exactly its Lezgic branch, with the modern [Udi language](/artsakh/Udi-lang.html) being its closest relative (if not its direct descendant)
 \[Gippert et al. 2008, II-65-78; Schulze/Gippert 2023\]. This is proven
 not only by a great bulk of common items from the basic lexicon
 (especially verbs) but also by straightforward matches in the
 grammatical structure that can be regarded as decisive (for details see
-\>\> *Udi language*).
+[Udi language](/artsakh/Udi-lang.html)).
 
 <figure>
   <img src="/public/albanian1.jpg" alt="Manuscript Sin. georg. NF 13, fol. 4v: Georgian with Albanian undertext">
