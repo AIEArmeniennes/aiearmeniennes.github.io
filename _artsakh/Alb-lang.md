@@ -50,13 +50,13 @@ grammatical structure that can be regarded as decisive (for details see
 \>\> *Udi language*).
 
 <figure>
-  <img src="/public/albanian1.jpg">
-  <figcaption>Manuscript Sin. georg. NF 13, fol. 4v: Georgian with Albanian undertext</figcaption>
+  <img src="/public/albanian1.jpg" alt="Manuscript Sin. georg. NF 13, fol. 4v: Georgian with Albanian undertext">
+  <figcaption>Fig. 1: Manuscript Sin. georg. NF 13, fol. 4v: Georgian with Albanian undertext</figcaption>
 </figure>
 
 <figure>
-  <img src="/public/albanian2.jpg">
-  <figcaption>Same, processed ultraviolet image with Albanian undertext emphasised</figcaption>
+  <img src="/public/albanian2.jpg" alt="Same, processed ultraviolet image with Albanian undertext emphasised">
+  <figcaption>Fig. 2: Same, processed ultraviolet image with Albanian undertext emphasised</figcaption>
 </figure>
 
 In the palimpsests with their biblical content (see Figures 1-2 showing
@@ -137,16 +137,16 @@ dominion in the Caucasus, along with the termination of the autocephaly
 of the Albanian church during the Arab rule in about the 8<sup>th</sup> century.
 
 <figure>
-  <img src="/public/albanian3.jpg">
-  <figcaption>Pedestal inscription, first published image of face 2 showing the name xosroow-</figcaption>
+  <img src="/public/albanian3.jpg" alt="Pedestal inscription, first published image of face 2 showing the name xosroow-">
+  <figcaption>Fig. 3: Pedestal inscription, first published image of face 2 showing the name xosroow-</figcaption>
 </figure>
 <figure>
-  <img src="/public/albanian4.jpg">
-  <figcaption>Same, image of 2011</figcaption>
+  <img src="/public/albanian4.jpg" alt="Same, image of 2011">
+  <figcaption>Fig. 4: Same, image of 2011</figcaption>
 </figure>
 <figure>
-  <img src="/public/albanian5.jpg">
-  <figcaption>Same, with letters highlighted</figcaption>
+  <img src="/public/albanian5.jpg" alt="Same, with letters highlighted">
+  <figcaption>Fig. 5: Same, with letters highlighted</figcaption>
 </figure>
 
 ### Bibliography
