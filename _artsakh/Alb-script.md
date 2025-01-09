@@ -29,12 +29,12 @@ transcription below each of them, comprised 52 characters (see Figures
 Georgian and Coptic scripts, is highlighted).
 
 <figure>
-  <img src=/public/albscript1.jpg" alt="Ms. Yerevan, Matenadaran, 7117, fol. 145r">
+  <img src="/public/albscript1.jpg" alt="Ms. Yerevan, Matenadaran, 7117, fol. 145r">
   <figcaption>Fig. 1: Ms. Yerevan, Matenadaran, 7117, fol. 145r</figcaption>
 </figure>
 
 <figure>
-  <img src=/public/albscript2.jpg" alt="Same, fol. 145v">
+  <img src="/public/albscript2.jpg" alt="Same, fol. 145v">
   <figcaption>Fig. 2: Same, fol. 145v</figcaption>
 </figure>
 
