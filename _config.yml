@@ -52,6 +52,19 @@ posts_heading:
   fr: Nouvelles
   hy: Նորութիւններ
 
+collections:
+  artsakh:
+    output: true
+    order:
+      - Alb-lang.md
+      - Alb-script.md
+      - Udi-lang.md
+      - Dadivank-monastery.md
+      - Gandzasar-monastery.md
+      - Hasan-Jola.md
+      - Mongols.md
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
