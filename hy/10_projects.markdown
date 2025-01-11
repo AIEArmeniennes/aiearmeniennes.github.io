@@ -5,7 +5,7 @@ title: Արցախ առցանց
 permalink: /projects/
 ---
 
-L'objectif principal du projet *Artsakh online* est de fournir des articles concis, rédigés par des experts, sur des sujets liés à l'Artsakh, de la période ancienne à la période moderne. Elles couvriront des questions telles que la géographie historique, la linguistique, la toponymie, l'histoire et l'histoire de l'art (par exemple Gandzasar, Dadivank, Shushi, Melik, etc.).  Elles sont accessibles sur le site web de l'AIEA afin d'atteindre non seulement la communauté scientifique, mais aussi un public plus large, qui est souvent demandeur d'informations précises pour s'orienter dans des questions scientifiques qui ont fait l'objet de nombreux débats, en particulier ces dernières années.
+«Արցախ առցան» նախագծի հիմնական նպատակը պատրաստել հակիրճ՝ մանագետների կողմից գրուած, արձանագրութիւններ կապուած Արցախի հետ՝ հին ժամանակներից մինչեւ այսօր: Դրանք ներառելու են թեմաներ, ինչպիսիք են պատմական աշխարհագրութիւնը, լեզվաբանութիւնը, տեղանունները, պատմութիւնը եւ արվեստի պատմութիւնը (օրինակ՝ Գանձասարի, Դադիվանքի, Շուշիի, Մելիքի եւ այլնի մասին): Այս նիւթը ազատ հասանելի է ՀՈՄԸ-ի կայքում, որպեսզի օգտագործելի լինի ոչ միայն գիտական հանրութեան, այլ նաեւ հետաքրքրուած  լայն շրջանակներին կողմից, որոնք հաճախ կարիք ունեն ճշգրիտ տեղեկութիւնների, որոնք կարող են իրենց օգնել նավարկել բարդ գիտական խնդիրներում, որոնք բանավեճերի առարկա են դարձել, մանավանդ վերջին տարիներին:
 
 <ol>
 {% for article in site.artsakh %}
