@@ -8,7 +8,7 @@ author: Jost Gippert
 
 The development of an individual script matching a remarkably complex
 sound system was a prerequisite for the emergence of literacy in the
-[Albanian language](/artsakh/Alb-lang.html). According to the account by the Armenian
+[Albanian language](/artsakh/Alb-lang/). According to the account by the Armenian
 author Koryun, it was his teacher Mesrop Mashtots who in the early 5<sup>th</sup>
 century, together with an Albanian (*Aghuan*) named Benjamin, "created
 letters" for it which he "successfully arranged, examined and fixed"
@@ -44,7 +44,7 @@ letters are anything but reliable, the alphabet list of the
 Albanian inscriptions and, especially, the palimpsested manuscripts of
 the language that were detected among the so-called "New Finds" of St
 Catherine's Monastery on Mt Sinai in the 1990s. With the biblical
-material contained in the latter (see [Albanian language](/artsakh/Alb-lang.html) for
+material contained in the latter (see [Albanian language](/artsakh/Alb-lang/) for
 details), it was possible to establish the alphabet in its entirety even
 though two characters contained in the alphabet list have remained
 unattested. Table I shows the letters as appearing in the palimpsests,
@@ -112,7 +112,7 @@ the alphabet list at least for the first 21 letters. \[Gippert et al.
 With its 52 letters, the Albanian alphabet reflects a highly complex
 sound system with 45 consonants and 7 vowels, which is typical for an
 East Caucasian language. In comparison with the sound system of the
-modern [Udi language](/artsakh/Udi-lang.html), which is the closest relative (if not the
+modern [Udi language](/artsakh/Udi-lang/), which is the closest relative (if not the
 direct descendant) of Caucasian Albanian, it is somewhat more
 differentiated, comprising, e.g., palatalised consonants like *n'*,
 *l'*, and *c'*; a peculiarity is the pharyngeal consonant (ʕ) appearing
@@ -237,10 +237,7 @@ points 10350-1056F. Of the glyphs represented in the Unicode chart (see
 <https://unicode.org/charts/PDF/U10530.pdf>), one (1054B, CYAY) must be
 changed as the character in question (no. 28 in the alphabet) has only
 recently been detected in the Sinai palimpsests; its correct shape is
-not ![](media/image55.png){width="0.1968503937007874in"
-height="0.1896926946631671in"}as in the alphabet list but
-![](media/image56.png){width="0.1968503937007874in"
-height="0.1968503937007874in"}.
+not as in the alphabet list but 𐕋.
 
 ### Bibliography
 
