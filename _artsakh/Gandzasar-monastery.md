@@ -1,7 +1,7 @@
 ---
 layout: page
 listtitle: Gandzasar Monastery
-title: Gandzasar Monastery (13<sup>th</sup> century)
+title: Gandzasar Monastery (13th century)
 author: Patrick Donabédian
 ---
 *Patrick Donabédian (Aix-Marseille University)*

@@ -1,3 +1,6 @@
+.DS_Store
+.clj-kondo
+.lsp
 _site
 .sass-cache
 .jekyll-cache

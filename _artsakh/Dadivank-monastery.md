@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dadivankʻ Monastery (late 12<sup>th</sup>–13<sup>th</sup> centuries)
+title: Dadivankʻ Monastery (late 12th – 13th centuries)
 listtitle: Dadivankʻ Monastery
 author: Patrick Donabédian
 ---

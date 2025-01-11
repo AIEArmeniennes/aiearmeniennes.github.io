@@ -55,6 +55,7 @@ posts_heading:
 collections:
   artsakh:
     output: true
+    permalink: /:collection/:title/
     order:
       - Alb-lang.md
       - Alb-script.md
