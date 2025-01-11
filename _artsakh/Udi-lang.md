@@ -72,13 +72,13 @@ consonants \[Gippert et al. 2008, II-12--13; Schulze/Gippert 2023,
 ###  Bibliography
 
 Bezhanov, S. & M. (Семенъ & Михаилъ Бежановъ), *Господа нашего Іисуса
-Христа Святое Евангеліе отъМатѳея, Марка, Луки и Іоанна на русскомъи
+Христа Святое Евангеліе отъ Матѳея, Марка, Луки и Іоанна на русскомъи
 удинскомъ языкахъ* \[*The Holy Gospels of Our Lord Jesus Christ by
 Matthew, Mark, Luke and John in the Russian and Udi Languages*\].
 Tiflis: Caucasian Educational District 1902 (= *Сборникъ матеріаловъ для
 описанія мѣстностей и племенъ Кавказа* \[*Collection of materials for
 the description of the localities and tribes of the Caucasus*\] 30
-(1902).
+(1902). 
 
 <https://books.google.de/books?id=2S5sBgAAQBAJ>;
 <https://commons.wikimedia.org/wiki/File:СМОМПК_1902_30.pdf>.
