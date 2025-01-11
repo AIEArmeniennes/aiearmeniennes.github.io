@@ -182,9 +182,7 @@ Sources (5th --13th Centuries)", in J. Gippert -- J. Dum-Tragut (eds),
 Gruyter 2023, p. 33-92. <https://doi.org/10.1515/9783110794687-002>.
 
 Gippert, J. 2005. "Armeno-Albanica", in G. Schweiger (ed.),
-*Indogermanica. Festschrift Gert*
-
-*Klingenschmitt*, Taimering: Schweiger VWT-Verlag 2005, p. 155-165.
+*Indogermanica. Festschrift Gert Klingenschmitt*, Taimering: Schweiger VWT-Verlag 2005, p. 155-165.
 <https://www.academia.edu/21815861>.
 
 Gippert, J., "The Textual Heritage of Caucasian Albanian", in J.
@@ -203,12 +201,8 @@ Palaeographica Medii Aevi. Series Ibero-Caucasica 1), Turnhout: Brepols
 2008.
 
 Qaziyev, S. (Салеһ Мустафа оглы Казиев), "Новые археологические находки
-в
-
-Мингечауре" \[New Archaeological Finds in Mingachevir\], *Азәрбаиҹан ССР
-Елмләр*
-
-*Академијасынын мә'рузәләри / Доклады Академии Наук Азербайджанской ССР*
+в Мингечауре" \[New Archaeological Finds in Mingachevir\], *Азәрбаиҹан ССР
+Елмләр Академијасынын мә'рузәләри / Доклады Академии Наук Азербайджанской ССР*
 \[*Reports of the Academy of Sciences of the Azerbaijanian SSR*\] IV/9
 (1948), p. 396-403
 
