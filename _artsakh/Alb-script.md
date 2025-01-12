@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Albanian script
-listtitle: Albanian script
+title: Caucasian Albanian script
+listtitle: Caucasian Albanian script
 author: Jost Gippert
 ---
 *Jost Gippert (University of Hamburg)*
