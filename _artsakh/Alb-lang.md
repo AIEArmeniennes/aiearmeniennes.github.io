@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Albanian language
-listtitle: Albanian language
+title: Caucasian Albanian language
+listtitle: Caucasian Albanian language
 author: Jost Gippert
 ---
 *Jost Gippert (University of Hamburg)*
