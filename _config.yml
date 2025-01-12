@@ -57,13 +57,13 @@ collections:
     output: true
     permalink: /:collection/:title/
     order:
-      - Alb-lang.md
-      - Alb-script.md
-      - Udi-lang.md
       - Dadivank-monastery.md
       - Gandzasar-monastery.md
       - Hasan-Jola.md
       - Mongols.md
+      - Alb-lang.md
+      - Alb-script.md
+      - Udi-lang.md
 
 
 # Exclude from processing.
