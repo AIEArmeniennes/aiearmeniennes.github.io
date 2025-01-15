@@ -161,7 +161,7 @@ Cuneo, P., *Architettura armena*, I, Rome: De Luca, 1988. On Gandzasar:
 p. 443-445.
 
 Donabédian, P., "Main Monuments of Artsʻakh", in I. Dorfmann-Lazarev --
-H. Khatchadourian, *Monuments and Identities in the Caucasus: Karabagh,
+H. Khatchadourian (eds), *Monuments and Identities in the Caucasus: Karabagh,
 Nakhichevan and Azerbaijan in Contemporary Geopolitical Conflict*,
 Leiden -- Boston: Brill, 2023, p. 102-172. On Gandzasar: p. 153-161.
 
