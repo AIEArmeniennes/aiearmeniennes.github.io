@@ -18,12 +18,12 @@ L’AIEA (Association Internationale des Etudes Arméniennes) est une société 
         <th>&nbsp;</th>
     </tr>
     <tr>
-        <td>Présidente<br>(élu, 2022–2024)</td>
+        <td>Présidente<br>(élu, 2025–2027)</td>
         <td style="width:110px"><img src="/assets/vc.png" height="132"></td>
         <td>Prof. Valentina Calzolari<br>Centre de recherches arménologiques<br>Université de Genève<br>22, Boulevard des Philosophes, CH-1211 Genève 4 (Suisse)<br>valentina.calzolari@unige.ch</td>
     </tr>
     <tr>
-        <td>Secrétaire<br>(coopté, 2022–2024)</td>
+        <td>Secrétaire<br>(coopté, 2025–2027)</td>
         <td><img src="/assets/ta.png" height="132"></td>
         <td>Prof. Tara Andrews <br>Universität Wien<br>Institut für Geschichte<br>Universitätsring, 1, 1010 WIEN (Autriche)<br>tara.andrews@univie.ac.at</td>
     </tr>
@@ -38,17 +38,17 @@ L’AIEA (Association Internationale des Etudes Arméniennes) est une société 
         <td>Prof. Marco Bais<br>Pontificio Istituto Orientale<br>Piazza S. Maria Maggiore, 7<br>I-00185 Roma (Italie)<br>marbais@hotmail.com</td>
     </tr>
     <tr>
-        <td>Membre du Comité<br>(coopté, 2024 – 2026)</td>
+        <td>Membre du Comité<br>(coopté, 2024–2026)</td>
         <td><img src="/assets/ng.jpg" height="132"></td>
         <td>Prof. Nazénie Garibian<br>Institut Machtots de recherches sur les manuscrits anciens Matenadaran<br>Avenue Mesrop-Machtots 53<br>0019 Erevan (Arménie)<br>n.garibian@matenadaran.am</td>
     </tr>
     <tr>
-        <td>Membre du Comité<br>(élu, 2022 – 2024)</td>
+        <td>Membre du Comité<br>(élu, 2025–2027)</td>
         <td><img src="/assets/eb.jpg" height="132" width="108"></td>
         <td>Dr. Emilio Bonfiglio<br>Centre for the Study of Manuscript Cultures<br>University of Hamburg<br>Warburgstr. 28<br>20354 Hamburg (Allemagne)<br>emilio.bonfiglio@uni-hamburg.de</td>
     </tr>
     <tr>
-        <td>Membre du Comité<br>(élu, 2022 – 2024)</td>
+        <td>Membre du Comité<br>(élu, 2025–2027)</td>
         <td><img src="/assets/meyer_portrait_small.jpg" height="132"></td>
         <td>Prof. Robin Meyer<br>Section des sciences du langage et de l'information<br>Université de Lausanne<br>Campus Dorigny<br>CH-1015 Lausanne (Suisse)<br>robin.meyer@unil.ch</td>
     </tr>
