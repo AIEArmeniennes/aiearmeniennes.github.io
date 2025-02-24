@@ -9,6 +9,7 @@ permalink: /activities/
 
 | | |
 |------|-------------|
+|Geneva & Lausanne|9–11 January 2025 ([Programme](/public/programme_geneva-lausanne_2025.pdf) – [Abstracts](/public/abstracts_geneva-lausanne_2025.pdf))|
 |Halle|2–4 September 2021 ([Programme](/public/programme_halle_2021.pdf))|
 |Oxford|10–12 August 2017 ([Programme](/public/programme_oxford_2017.pdf) – [Abstracts](/public/abstracts_oxford_2017.pdf))|
 |Erevan|9–11 October 2014 ([Programme](/public/programme_erevan_2014.pdf) – [Proceedings](https://www.matenadaran.am/ftp/data/Banber-21.pdf))|
@@ -45,7 +46,7 @@ permalink: /activities/
 |1990|The Armenian Bible, Heidelberg, 16–19 July 1990. ([Proceedings](https://www.peeters-leuven.be/detail.php?search_key=9781555405977&series_number_str=12&lang=en))|
 |1989|Priorities, Problems and Techniques of Text Editions, Sandjberg, 16–20 July 1989. ([Proceedings](http://en.unipress.dk/udgivelser/a/armenian-texts,-tasks-and-tools/))|
 |1987|Chrysostomica and Pseudo-Chrysostomica, Aarhus, April 1987.|
-|1985|La place de l’arménien dans les langues indo-européennes, Bruxelles, 21 March 1985. ([Proceedings](https://www.peeters-leuven.be/detail.php?search_key=9789068310498&series_number_str=3&lang=en).|
+|1985|La place de l’arménien dans les langues indo-européennes, Bruxelles, 21 March 1985. ([Proceedings](https://www.peeters-leuven.be/detail.php?search_key=9789068310498&series_number_str=3&lang=en))|
 
 ## 3.  Workshops organised under the aegis of the AIEA
 
