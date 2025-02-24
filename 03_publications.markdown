@@ -14,7 +14,7 @@ These volumes are to be published in the series *Handbuch der Orientalistik -- H
 | | |
 |-|-|
 | 2014 | [Armenian Philology in the Modern Era. From Manuscript to Digital Text](https://brill.com/display/title/23875), Edited by Valentina Calzolari, With the Collaboration of Michael E. Stone (Handbook of Oriental Studies, VIII, 23, 1), Leiden – Boston, Brill, 2014, XV+595pp. ISBN 978-90-04-25994-2.                                                                                                   |
-|      | Upcoming volumes:<br> <br>- Ancient and medieval history: ed. G. Traina, 2018.<br>- Linguistics: ed. A. Orengo, I. Tinti, and R. Meyer, 2019.<br>- Literature: ed. E. Bonfiglio and Th. van Lint, 2019.<br>- History of art and architecture: 2020.<br>- Society, religion, history of ideas and scholarship, ed. M. Bais: 2022.<br>- Modern and contemporary history: 2022.  |
+|      | Upcoming volumes:<br> <br>- Linguistics: ed. A. Orengo, I. Tinti, and R. Meyer.<br>- Ancient history: ed. G. Traina and A. Kéfélian.<br>- Mediaeval history: ed. T. Andrews and L. Read.<br>- Contemporary history: ed. P. Lucca.<br>- Ancient and mediaeval literature: ed. E. Bonfiglio and Th. van Lint.<br>- Contemporary literature: ed. Th. M. van Lint.<br>- History of art and architecture: ed. N. Garibian, C. Maranci and S. Khatcherian.<br>- Society, religion, history of ideas and scholarship: ed. M. Bais.  |
 
 
 
