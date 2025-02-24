@@ -9,6 +9,7 @@ permalink: /activities/
 
 | | |
 |------|-------------|
+|Ժնև և Լօզան|9–11 հունվարի 2025թ. ([Ծրագիր](/public/programme_geneva-lausanne_2025.pdf) – [Ամփոփումներ](/public/abstracts_geneva-lausanne_2025.pdf))|
 |Հալլե| 2–4 սեպտեմբերի 2021թ. ([Ծրագիր](/public/programme_halle_2021.pdf))|
 |Օքսֆորդ| 10–12 օգոստոսի 2017թ. ([Ծրագիր](/public/programme_oxford_2017.pdf) – [Ամփոփումներ](/public/abstracts_oxford_2017.pdf))|
 |Երևան| 9–11 հոկտեմբերի 2014թ. ([Ծրագիր](/public/programme_erevan_2014.pdf) – [Բանբեր Մատենադարանի](https://www.matenadaran.am/ftp/data/Banber-21.pdf))|
@@ -45,7 +46,7 @@ permalink: /activities/
 |1990թ.|The Armenian Bible, Heidelberg, 16–19 հուլիսի 1990թ. ([Գիրք](https://www.peeters-leuven.be/detail.php?search_key=9781555405977&series_number_str=12&lang=en))|
 |1989թ.|Priorities, Problems and Techniques of Text Editions, Sandjberg, 16–20 հուլիսի 1989թ. ([Գիրք](http://en.unipress.dk/udgivelser/a/armenian-texts,-tasks-and-tools/))|
 |1987թ.|Chrysostomica and Pseudo-Chrysostomica, Aarhus, ապրիլի 1987թ.|
-|1985թ.|La place de l’arménien dans les langues indo-européennes, Bruxelles, 21 մարտի 1985թ. ([Գիրք](https://www.peeters-leuven.be/detail.php?search_key=9789068310498&series_number_str=3&lang=en).|
+|1985թ.|La place de l’arménien dans les langues indo-européennes, Bruxelles, 21 մարտի 1985թ. ([Գիրք](https://www.peeters-leuven.be/detail.php?search_key=9789068310498&series_number_str=3&lang=en))|
 
 ## 3.  ՀՈՄԸ աջակցությամբ կազմակերպված գիտաժողովներ
 
