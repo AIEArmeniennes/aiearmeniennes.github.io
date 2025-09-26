@@ -5,7 +5,7 @@ listtitle: The writing centers and manuscript heritage of Artsakh
 author: Tamar Minasyan
 ---
 
-*Tamar Minasyan (Senior Researcher, Matenadaran,Yerevan)*
+*Tamar Minasyan (Senior Researcher, Matenadaran, Yerevan)*
 
 Artsakh, the tenth province of Greater Armenia, is one of the oldest settlements of the Armenian written culture, and the local writing centers (calligraphy centers) are ranked among the Armenian medieval schools. In those centers, talented scribes and illustrators (miniature painters) have copied various theological, doctrinal, translational, historical, scientific, interpretive, educational and ritual manuscripts. The latter testify to the path and development of the Armenian written culture in those regions over the centuries. The records of manuscripts created in Artsakh are extremely important sources that provide remarkable information about the history of the province, its spiritual life, writing centers, patriarchs, scholarly priests, talented scribes and illustrators, clients and donors. The illuminated manuscripts with their art of illustration and stylistic features testify to the unique school of miniature painting and its high level of development.
 
@@ -155,3 +155,4 @@ Among the manuscripts kept in various places of Artsakh, the following are notab
 
 
 Of the thousands of manuscripts written, illustrated and preserved in Artsakh, we have information about 460 manuscripts, of which the whereabouts of 150 are unknown. Most of the manuscripts that have come down to us are kept in the Matenadaran of Yerevan, while others are in various manuscript libraries and private collections around the world.
+
