@@ -1,7 +1,7 @@
 ---
 layout: page
 lang: en
-title: Artsakh online
+title: Karabakh | Artsakh online
 permalink: /projects/
 ---
 
@@ -14,3 +14,5 @@ The main goal of the *Artsakh online* project is to provide concise, expert-auth
   </li>
 {% endfor %}
 </ol>
+
+To be continued…
