@@ -1,7 +1,7 @@
 ---
 layout: page
 lang: fr
-title: Artsakh en ligne
+title: Karabakh | Artsakh en ligne
 permalink: /projects/
 ---
 
@@ -14,3 +14,5 @@ L'objectif principal du projet *Artsakh online* est de fournir des articles conc
   </li>
 {% endfor %}
 </ol>
+
+À suivre …
