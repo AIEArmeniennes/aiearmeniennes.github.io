@@ -10,7 +10,7 @@ author: Tamar Minasyan
 Artsakh, the tenth province of Greater Armenia, is one of the oldest settlements of the Armenian written culture, and the local writing centers (calligraphy centers) are ranked among the Armenian medieval schools. In those centers, talented scribes and illustrators (miniature painters) have copied various theological, doctrinal, translational, historical, scientific, interpretive, educational and ritual manuscripts. The latter testify to the path and development of the Armenian written culture in those regions over the centuries. The records of manuscripts created in Artsakh are extremely important sources that provide remarkable information about the history of the province, its spiritual life, writing centers, patriarchs, scholarly priests, talented scribes and illustrators, clients and donors. The illuminated manuscripts with their art of illustration and stylistic features testify to the unique school of miniature painting and its high level of development.
 
 <figure>
-  <img src="/public/writingcentre1.jpg" alt="Amaras Monastery">
+  <img src="/public/writingcentre1.JPG" alt="Amaras Monastery">
   <figcaption>Fig. 1: Amaras Monastery</figcaption>
 </figure>
 
@@ -18,19 +18,19 @@ Artsakh, the tenth province of Greater Armenia, is one of the oldest settlements
 The first center of writing of Artsakh was the Monastery of Amaras (Fig. 1; see notice on Amaras), from which unfortunately no handwritten manuscripts have reached us. The writing centers of Gandzasar, Dadivank‘, Khadavank‘ (Khatravank‘), Gtch‘avank‘, the Monastery of St. Hakob of Metsaranats‘, Yerits‘ Mankants‘ Monastery, Yeghishē Arak‘ial (Apostle) Monastery, Avetaranots‘, Kusanats‘ Anapat, Gandzak and K‘arahat were notable, where talented scribes and illustrators worked. In the 17<sup>th</sup> century, female scribes were also known in Artsakh: the nuns Gayanē (Fig. 2), Katarinē and Varvaṛē (Fig. 3), whose manuscripts have survived to us.
 
 <figure>
-  <img src="/public/writingcentre2.jpg" alt="Matenadaran, MS 2404, fol. 159a, y. 1641, scribe: Gayanē">
+  <img src="/public/writingcentre2.JPG" alt="Matenadaran, MS 2404, fol. 159a, y. 1641, scribe: Gayanē">
   <figcaption>Fig. 2: Matenadaran, MS 2404, fol. 159a, y. 1641, scribe: Gayanē</figcaption>
 </figure>
 
 <figure>
-  <img src="/public/writingcentre3.jpg" alt="Matenadaran, MS 2067, fol. 220a, Grigor Tatevats‘i, Homiliary (Collection of Sermons), y. 1684, scribe: Varvarē">
+  <img src="/public/writingcentre3.JPG" alt="Matenadaran, MS 2067, fol. 220a, Grigor Tatevats‘i, Homiliary (Collection of Sermons), y. 1684, scribe: Varvarē">
   <figcaption>Fig. 3: Matenadaran, MS 2067, fol. 220a, Grigor Tatevats‘i, Homiliary (Collection of Sermons), y. 1684, scribe: Varvarē</figcaption>
 </figure>
 
 The centers of writing had their own Manuscript Libraries (Matenadaran) with rich collections of manuscripts. Worthy of attention is the Armenian lithographic inscription of 1204 (the inscription of Hat‘erk‘) brought from Khadavank‘ and exhibited in the Matenadaran of Yerevan, which is the earliest written evidence of the creation of medieval Manuscript Libraries and museums in Artsakh (Fig. 4).
 
 <figure>
-  <img src="/public/writingcentre4.jpg" alt="Khadavank‘ (Hat‘erk‘), y. 1204: inscription">
+  <img src="/public/writingcentre4.JPG" alt="Khadavank‘ (Hat‘erk‘), y. 1204: inscription">
   <figcaption>Fig. 4: Khadavank‘ (Hat‘erk‘), y. 1204: inscription</figcaption>
 </figure>
 
@@ -39,38 +39,38 @@ The oldest dated manuscript that has come down to us from Artsakh is the *Datast
 The rise of cultural life and especially the creation of writing centers and their active activity gradually contributed to the development of miniature art. As early as the 13<sup>th</sup> century, there were beautifully illustrated manuscripts, which are currently considered valuable examples of Artsakh’s writing art and Armenian manuscript culture. The miniatures of that period are notable for the unique iconography of church altars, title pages, and unique solutions of nationally characteristic ornaments. Artsakh miniaturists used simpler forms in their miniatures, and in their coloring they harmonized four or five colors: red, green, blue, purple and yellow.
 
 <figure>
-  <img src="/public/writingcentre5.jpg" alt="Matenadaran, MS 378, fol. 259r, Gospel, Gandzasar, y. 1212-1214, illuminator: T‘oros ">
+  <img src="/public/writingcentre5.JPG" alt="Matenadaran, MS 378, fol. 259r, Gospel, Gandzasar, y. 1212-1214, illuminator: T‘oros ">
   <figcaption>Fig. 5: Matenadaran, MS 378, fol. 259r, Gospel, Gandzasar, y. 1212-1214, illuminator: T‘oros </figcaption>
 </figure>
 
 One of the notable manuscripts is the parchment Gospel (in *erkat‘agir* “uncial”) copied by the scribe T‘oros in 1212–1214 by order of Vakhtang-Tangik and Khorisah, the parents of the Prince of Artsakh, Hasan Jalal-Dola. The latter is the oldest illustrated manuscript created in Gandzasar and has survived to us (Gospel of Vakhtang-Tangik, Matenadaran MS 378). The manuscript contains ten altars, portraits of the evangelists, title pages and beautiful margin decorations (Fig. 5). The miniaturist painted the episode of the Ascension in the square of the title page of the Gospel of John (Fig. 6). There is also one image of the Lord in the Gospel, i.e. the Virgin Mary with the Child (Fig. 7).
 
 <figure>
-  <img src="/public/writingcentre6.jpg" alt="Matenadaran, MS 378, fol. 11a, Gospel, Gandzasar, y. 1212-1214, illuminator: T‘oros">
+  <img src="/public/writingcentre6.JPG" alt="Matenadaran, MS 378, fol. 11a, Gospel, Gandzasar, y. 1212-1214, illuminator: T‘oros">
   <figcaption>Fig. 6: Matenadaran, MS 378, fol. 11a, Gospel, Gandzasar, y. 1212-1214, illuminator: T‘oros</figcaption>
 </figure>
 
 <figure>
-  <img src="/public/writingcentre7.jpg" alt="Matenadaran, MS 378, fol. 5a, Gospel, Gandzasar, y. 1212-1214, illuminator: T‘oros">
+  <img src="/public/writingcentre7.JPG" alt="Matenadaran, MS 378, fol. 5a, Gospel, Gandzasar, y. 1212-1214, illuminator: T‘oros">
   <figcaption>Fig. 7: Matenadaran, MS 378, fol. 5a, Gospel, Gandzasar, y. 1212-1214, illuminator: T‘oros</figcaption>
 </figure>
 
 Among the miniature paintings of Artsakh, the portrait of Vakhtang, son of Umek (Matenadaran, MS 155) is notable for its originality. In the 13<sup>th</sup> century, an unknown miniaturist painted a young prince sitting on a beautifully decorated high chair (Fig. 8). The young prince’s personality was emphasized in his delicate features and princely clothing. The character of Vakhtang reflected the lifestyle of a medieval Armenian nobleman, which had exceptional ethnographic significance.
 
 <figure>
-  <img src="/public/writingcentre8.jpg" alt="Matenadaran, MS 155, fol. 106b, Relics of the New Testament, 13th century, recipient: Vakhtang, son of Umek">
+  <img src="/public/writingcentre8.JPG" alt="Matenadaran, MS 155, fol. 106b, Relics of the New Testament, 13th century, recipient: Vakhtang, son of Umek">
   <figcaption>Fig. 8: Matenadaran, MS 155, fol. 106b, Relics of the New Testament, 13th century, recipient: Vakhtang, son of Umek</figcaption>
 </figure>
 
 The parchment Gospel called *T‘argmanch‘ats‘ Avetaran* (Matenadaran, MS 2743) written by the scribe of the Tirats‘i in 1232 and created by Grigor Tsaghkogh is exceptionally valuable. The place of writing is unknown. Grigor Tsaghkogh (Grigor the Illustrator) along with the scribe illustrated church altars, title pages, margin decorations and letters of the manuscript (Fig. 9–10). The portraits of the evangelists of the Gospel and the series of images of the Lord were painted in Khadavank‘ in the 14<sup>th</sup> century by the miniaturist Grigor of Artsakh.
 
 <figure>
-  <img src="/public/writingcentre9.jpg" alt="Matenadaran, MS 2743, fol. 15a, Gospel, 14th century, illuminator: Grigor Artsakhetsi">
+  <img src="/public/writingcentre9.JPG" alt="Matenadaran, MS 2743, fol. 15a, Gospel, 14th century, illuminator: Grigor Artsakhetsi">
   <figcaption>Fig. 9: Matenadaran, MS 2743, fol. 15a, Gospel, 14th century, illuminator: Grigor Artsakhetsi</figcaption>
 </figure>
 
 <figure>
-  <img src="/public/writingcentre10.jpg" alt="Matenadaran, MS 2743, fol. 188b, Gospel, 14th century, illuminator: Grigor Artsakhetsi">
+  <img src="/public/writingcentre10.JPG" alt="Matenadaran, MS 2743, fol. 188b, Gospel, 14th century, illuminator: Grigor Artsakhetsi">
   <figcaption>Fig. 10: Matenadaran, MS 2743, fol. 188b, Gospel, 14th century, illuminator: Grigor Artsakhetsi</figcaption>
 </figure>
 
@@ -152,5 +152,6 @@ Among the manuscripts kept in various places of Artsakh, the following are notab
   <img src="/public/writingcentre23.jpg" alt="Matenadaran, MS 10099, Begyunts‘ Avetaran (Gospel), 10th–11th centuries">
   <figcaption>Fig. 23: Matenadaran, MS 10099, Begyunts‘ Avetaran (Gospel), 10th–11th centuries</figcaption>
 </figure>
+
 
 Of the thousands of manuscripts written, illustrated and preserved in Artsakh, we have information about 460 manuscripts, of which the whereabouts of 150 are unknown. Most of the manuscripts that have come down to us are kept in the Matenadaran of Yerevan, while others are in various manuscript libraries and private collections around the world.
