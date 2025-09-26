@@ -21,17 +21,31 @@ The agrarian reform, which took place in the Caucasus starting from 1870, furthe
 
 ### Bibliography
 
-Esayan, A., “Հյուսիսարեվելյան Հայաստանի Մելիքությունները XVII դարում” \[The Melikdoms of Northeastern Armenia in the 17th century\], *Banber Matenadarani* 29 (2020), p. 388–400. 
+Esayan, A., “Հյուսիսարեվելյան Հայաստանի Մելիքությունները XVII դարում” \[The Melikdoms of Northeastern Armenia in the 17th century\], *Banber Matenadarani* 29 (2020), p. 388–400.
+
 Ferrari, A., “Nobility and Monarchy in Eighteenth Century Armenia. Introduction to a New Study”, *Iran & the Caucasus* 8.1 (2004), p. 53–63.
+
 Ferrari, A., *In cerca di un regno. Profezia, nobiltà e monarchia in Armenia tra Settecento e Ottocento*, Milano: Mimesis, 2011.
+
 Garsoïan, N., “Naxarar”, in *Encyclopedia Iranica* (<https://www.iranicaonline.org/articles/naxarar/>)
+
 Hewsen, R.H., “The Meliks of Eastern Armenia: A Preliminar Study”, *Revue des Études Arméniennes* 9 (1972), p. 285–329.
+
 Hewsen, R.H., “The Meliks of Eastern Armenia II”, *Revue des Études Arméniennes* 10 (1973–1974), p. 282-300.
+
 Hewsen, R.H., “The Meliks of Eastern Armenia III”, *Revue des Études Arméniennes* 12 (1975–1976), p. 219–243.
+
 Hewsen, R.H., “The Meliks of Eastern Armenia IV”, *Revue des Études Arméniennes* 14 (1980), p. 459–470.
+
 Hewsen, R.H., “Three Armenian Noble Families of the Russian Empires \[The Meliks of Eastern Armenia V\]”, *Hask* (1981-1982), p. 389–400.
+
 Hewsen, R.H., “The Meliks of Eastern Armenia VI: the House of Aghamaleanc‘”, *Bazmavēp* (1984), p. 319–333.
+
 Maghalyan, A., *Արցախի Մելիքությունները եւ մելիքական տնրրը XVII-XIX դդ.* \[The Melikdoms of Artsakh and Melik Houses in the 17th-19th centuries\], Yerevan: Gitut‘yun, 2007.
+
 Maghalyan A, “The Origin of the Khanate of Karabakh”, *Journal of the Society for Armenian Studies* 29.2 (2024), p. 169–180.
+
  Raffi, *I melik‘ del Łarabał (1600-1827). Materiali per la storia moderna degli Armeni*, ed. by A. Ferrari, Milano: Mimesis, 2008.
+ 
 Raffi, T*he Five Melikdoms of Karabagh*, ed. by A.S. Melkonian, London: Gomidas Institute, 2021.
+
