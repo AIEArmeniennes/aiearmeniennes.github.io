@@ -1,7 +1,7 @@
 ---
 layout: page
 lang: hy
-title: Արցախ առցանց
+title: Ղարաբաղ | Արցախ առցանց
 permalink: /projects/
 ---
 
@@ -14,3 +14,5 @@ permalink: /projects/
   </li>
 {% endfor %}
 </ol>
+
+Շարունակելի …
