@@ -2,7 +2,7 @@
 layout: page
 title: The meliks
 listtitle: The meliks
-auhtor: Aldo Ferrari
+author: Aldo Ferrari
 ---
 
 *Aldo Ferrari (Ca’ Foscari University, Venice)*
@@ -45,7 +45,8 @@ Maghalyan, A., *Արցախի Մելիքությունները եւ մելիքա�
 
 Maghalyan A, “The Origin of the Khanate of Karabakh”, *Journal of the Society for Armenian Studies* 29.2 (2024), p. 169–180.
 
- Raffi, *I melik‘ del Łarabał (1600-1827). Materiali per la storia moderna degli Armeni*, ed. by A. Ferrari, Milano: Mimesis, 2008.
+Raffi, *I melik‘ del Łarabał (1600-1827). Materiali per la storia moderna degli Armeni*, ed. by A. Ferrari, Milano: Mimesis, 2008.
  
-Raffi, T*he Five Melikdoms of Karabagh*, ed. by A.S. Melkonian, London: Gomidas Institute, 2021.
+Raffi, *The Five Melikdoms of Karabagh*, ed. by A.S. Melkonian, London: Gomidas Institute, 2021.
+
 
