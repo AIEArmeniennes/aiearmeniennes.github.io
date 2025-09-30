@@ -15,7 +15,7 @@ Artsakh, the tenth province of Greater Armenia, is one of the oldest settlements
 </figure>
 
 
-The first center of writing of Artsakh was the Monastery of Amaras (Fig. 1; see notice on Amaras), from which unfortunately no handwritten manuscripts have reached us. The writing centers of Gandzasar, Dadivank‘, Khadavank‘ (Khatravank‘), Gtch‘avank‘, the Monastery of St. Hakob of Metsaranats‘, Yerits‘ Mankants‘ Monastery, Yeghishē Arak‘ial (Apostle) Monastery, Avetaranots‘, Kusanats‘ Anapat, Gandzak and K‘arahat were notable, where talented scribes and illustrators worked. In the 17<sup>th</sup> century, female scribes were also known in Artsakh: the nuns Gayanē (Fig. 2), Katarinē and Varvaṛē (Fig. 3), whose manuscripts have survived to us.
+The first center of writing of Artsakh was the Monastery of Amaras (Fig. 1; see notice on Amaras), from which unfortunately no handwritten manuscripts have reached us. The writing centers of [Gandzasar](/artsakh/Gandzasar-monastery), [Dadivank‘](/artsakh/Dadivank-monastery/), Khadavank‘ (Khatravank‘), Gtch‘avank‘, the Monastery of St. Hakob of Metsaranats‘, Yerits‘ Mankants‘ Monastery, Yeghishē Arak‘ial (Apostle) Monastery, Avetaranots‘, Kusanats‘ Anapat, Gandzak and K‘arahat were notable, where talented scribes and illustrators worked. In the 17<sup>th</sup> century, female scribes were also known in Artsakh: the nuns Gayanē (Fig. 2), Katarinē and Varvaṛē (Fig. 3), whose manuscripts have survived to us.
 
 <figure>
   <img src="/public/writingcentre2.JPG" alt="Matenadaran, MS 2404, fol. 159a, y. 1641, scribe: Gayanē">
