@@ -2,6 +2,7 @@
 layout: page
 listtitle: Udi language
 title: Udi language
+key: Udi
 author: Jost Gippert
 ---
 *Jost Gippert (University of Hamburg)*

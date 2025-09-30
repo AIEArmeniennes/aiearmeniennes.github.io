@@ -2,6 +2,7 @@
 layout: page
 title: The writing centers and manuscript heritage of Artsakh
 listtitle: The writing centers and manuscript heritage of Artsakh
+key: Writing
 author: Tamar Minasyan
 ---
 

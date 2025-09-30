@@ -2,6 +2,7 @@
 layout: page
 title: Dadivankʻ Monastery (late 12th – 13th centuries)
 listtitle: Dadivankʻ Monastery
+key: Dadivank
 author: Patrick Donabédian
 ---
 *Patrick Donabédian (Aix-Marseille University)*

@@ -2,6 +2,7 @@
 layout: page
 listtitle: Hasan Jalal
 title: Hasan Jalal, a great Armenian prince under the Mongols
+key: Hasan
 author: Claude Mutafian
 ---
 *Claude Mutafian (PhD History)*

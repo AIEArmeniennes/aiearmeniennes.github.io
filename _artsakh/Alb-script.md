@@ -2,6 +2,7 @@
 layout: page
 title: Caucasian Albanian script
 listtitle: Caucasian Albanian script
+key: Caucasian Albanian script
 author: Jost Gippert
 ---
 *Jost Gippert (University of Hamburg)*
