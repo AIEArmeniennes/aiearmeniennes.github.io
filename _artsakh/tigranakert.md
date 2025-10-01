@@ -18,7 +18,7 @@ The city of Tigranakert of Artsakh occupies the lower valley of Khach‘enaget r
 The city was founded in the late 90s BC by the Armenian King Tigranes II the Great (95–55 BC). Traces of Tigranakert were discovered in 2005. Between 2006 and 2020, an archaeological expedition of the Institute of Archaeology and Ethnography of the National Academy of Sciences of the Republic of Armenia conducted extensive excavations at the site. Among the numerous settlements bearing the name of Tigranes, Artsakh’s Tigranakert is the only one whose exact location has been identified and thoroughly investigated. In 2010, on the basis of the rich archaeological materials uncovered during the excavations, an archaeological museum was established at the site.
 
 <figure>
-  <img src="/public/tigranakert2.JPG" alt="The city layout with indications of excavated areas: Tigranakert and its surrounding monuments and archaeological complexes. ">
+  <img src="/public/tigranakert2.png" alt="The city layout with indications of excavated areas: Tigranakert and its surrounding monuments and archaeological complexes. ">
   <figcaption>Fig. 2: The city layout with indications of excavated areas: Tigranakert and its surrounding monuments and archaeological complexes: 1.Fortified quarter; 2. Early Christian quarter; 3. First Antique quarter
 4.	Early Christian necropolis;
 5.	Eastern Antique necropolis;
@@ -36,7 +36,7 @@ Archaeological investigations indicate that the Tigranakert of Artsakh was an ex
 The fortified quarter occupies a triangular promontory. A rectangular tower stands at the summit, from which the southern and northern walls - forming the sides of the triangle - extend downward. The individual foundations of the outer and inner walls were cut into the rock in the shape of bands, with recesses for individual ashlars (stone blocks). These recesses were filled with lime mortar, into which the ashlars were embedded and fixed. Apart from securing the first row of ashlars and filling the spaces between them, the mortar also sealed the gap between the base and bedrock to prevent rainwater from penetrating beneath the foundation. The fortification wall was carefully adapted to the vertical and horizontal contours of the terrain, skillfully combining various grooves, tiers, and platforms. Its base does not rest on a single monolithic structure but on three separate “supports” (the outer and inner wall chamfers and the core between them) - a design that served an anti-seismic function by dispersing shocks near the foundation.
 
 <figure>
-  <img src="/public/tigranakert3.JPG" alt="Plan of the fortified quarter">
+  <img src="/public/tigranakert3.jpg" alt="Plan of the fortified quarter">
   <figcaption>Fig. 3: Plan of the fortified quarter</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ Situated on the plain about 1.5 km northeast of the main city, the antique cemet
 In the late first century BC and early first century AD, jar burials were prevalent over an extensive region. Recent research suggests that this funerary practice was especially common in Transcaucasia. It is evident that this was the predominant pre-Christian burial custom in Artsakh and Utik.
 
 <figure>
-  <img src="/public/tigranakert8.JPG" alt="One of the jars from the jar burial.">
+  <img src="/public/tigranakert8.jpg" alt="One of the jars from the jar burial.">
   <figcaption>Fig. 8: One of the jars from the jar burial.</figcaption>
 </figure>
 
@@ -110,7 +110,7 @@ Excavations in the northern courtyard revealed a flagstone pavement associated w
 The existence of such a large and richly developed Early Christian square underscores that Tigranakert retained its status as a notable settlement in the Early Middle Ages. Within the city’s immediate environs are the 7<sup>th</sup>-century Vank‘asar Church (Fig. 13), a tunnel-sectioned irrigation channel (Fig. 14), an Early Christian rock-cut complex (Fig. 15), and the shrines of Ts‘its‘-Sar (Fig. 16); all of them have been studied in detail.
 
 <figure>
-  <img src="/public/tigranakert13.JPG" alt="The Church of Vankasar, 7th century.">
+  <img src="/public/tigranakert13.jpg" alt="The Church of Vankasar, 7th century.">
   <figcaption>Fig. 13: The Church of Vankasar, 7th century.</figcaption>
 </figure>
 
@@ -120,7 +120,7 @@ The existence of such a large and richly developed Early Christian square unders
 </figure>
 
 <figure>
-  <img src="/public/tigranakert15.JPG" alt="A section of the Early Christian rock-cut complex, 7th–9th centuries.">
+  <img src="/public/tigranakert15.jpg" alt="A section of the Early Christian rock-cut complex, 7th–9th centuries.">
   <figcaption>Fig. 15: A section of the Early Christian rock-cut complex, 7th–9th centuries.</figcaption>
 </figure>
 
