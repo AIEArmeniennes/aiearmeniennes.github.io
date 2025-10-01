@@ -56,7 +56,7 @@ The Amaras complex, which predominantly assumed its current layout in the 17<sup
   <figcaption>Fig. 8: The refectory of the monastery.</figcaption>
 </figure>
 
-Today, only two khachkars (cross-stones) are known from Amaras Monastery. The inscription on the first khachkar is particularly noteworthy, as it also discloses the names of the khachkar and the artisan responsible for its creation: “Surb Astvatsatsin, in the year 1091 of the Armenian calendar, I, Abraham, the elder priest, constructed this. Remember me in your prayers to the Lord. I, Ghazar, compiled this. Remember me in your prayers to Christ and the Lord” (Fig. 9). It's worth noting that the Armenian date is exclusively employed in the inscriptions of Artsakh, Utik, and Caucasian Albanian regions. This fact serves as evidence of the calendar unity between the Armenian and Caucasian Albanian churches. The second broken khachkar is dated to 1205 year and presents the feast under the pomegranate tree (Fig. 10).
+Today, only two khachkars (cross-stones) are known from Amaras Monastery. The inscription on the first khachkar is particularly noteworthy, as it also discloses the names of the khachkar and the artisan responsible for its creation: “Surb Astvatsatsin, in the year 1091 of the Armenian calendar, I, Abraham, the elder priest, constructed this. Remember me in your prayers to the Lord. I, Ghazar, compiled this. Remember me in your prayers to Christ and the Lord” (Fig. 9). It's worth noting that the Armenian date is exclusively employed in the inscriptions of Artsakh, Utik, and [Caucasian Albanian](/artsakh/Alb-lang/) regions. This fact serves as evidence of the calendar unity between the Armenian and Caucasian Albanian churches. The second broken khachkar is dated to 1205 year and presents the feast under the pomegranate tree (Fig. 10).
 
 <figure>
   <img src="/public/amaras9.jpg" alt="The khachkar of the Ghazar compiler.">
@@ -75,7 +75,7 @@ According to a tradition the inventor of Armenian alphabet Mesrop Mashtots had o
   <figcaption>Fig. 11: The first letters of Armenian alphabet on the monastery wall. </figcaption>
 </figure>
 
-###Bibliography
+### Bibliography
 
 Hasratyan, M., “The architectural complex of Amaras”, *Journal of Historical Studies* 5 (1975), p. 35–52.
 
