@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Shushi: A tragic destiny
-listtitle: Shushi: A tragic destiny
+title: Shushi – A tragic destiny
+listtitle: Shushi – A tragic destiny
 key: Shushi
 author: Aldo Ferrari
 ---
