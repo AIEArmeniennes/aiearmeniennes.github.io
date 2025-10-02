@@ -64,8 +64,8 @@ Today, only two khachkars (cross-stones) are known from Amaras Monastery. The in
 </figure>
 
 <figure>
-  <img src="/public/amaras10.jpg" alt="The khachkar of 2005. ">
-  <figcaption>Fig. 10: The khachkar of 2005. </figcaption>
+  <img src="/public/amaras10.jpg" alt="The khachkar of 1205.">
+  <figcaption>Fig. 10: The khachkar of 1205.</figcaption>
 </figure>
 
 According to a tradition the inventor of Armenian alphabet Mesrop Mashtots had opened one of the first schools in Amaras. Today walls of the monastery are covered by the Armenian letters in alphabetical order and titled as “Lessons” (Fig 11).

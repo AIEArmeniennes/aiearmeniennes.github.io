@@ -102,8 +102,8 @@ During the Early Christian period, Tigranakert evolved into a major military-adm
 </figure>
 
 <figure>
-  <img src="/public/tigranakert12.JPG" alt="One of the capitals from the Great Church, 5th–6th centuries.">
-  <figcaption>Fig. 12: One of the capitals from the Great Church, 5th–6th centuries.</figcaption>
+  <img src="/public/tigranakert12.JPG" alt="Clay disk with Armenian inscription, 5th–6th centuries AD.">
+  <figcaption>Fig. 12: Clay disk with Armenian inscription, 5th–6th centuries AD.</figcaption>
 </figure>
 
 Excavations in the northern courtyard revealed a flagstone pavement associated with an Early Christian winged cross monument, a single-ailed smaller church with an externally articulated apse (“Small Church”), a burial ground to its west, and remnants of a reliquary beneath the eastern apse.
