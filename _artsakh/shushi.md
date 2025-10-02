@@ -41,6 +41,6 @@ Raffi, *The Five Melikdoms of Karabagh, 1600–1827*, ed. by A. S. Melkonian, Lo
 
 Walker, Ch., “The Armenian presence in mountainous Karabakh”, in J. Wright, R. Schofield, S. Goldenberg (eds.). *Transcaucasian Boundaries*, London: Taylor & Francis, 2000, p. 89–112. 
 
-CHW Releases Monitoring Report #7, June 2024, [https://caucasusheritage.cornell.edu/?p=1648]
+CHW Releases Monitoring Report #7, June 2024, [https://caucasusheritage.cornell.edu/?p=1648](https://caucasusheritage.cornell.edu/?p=1648)
 
 
