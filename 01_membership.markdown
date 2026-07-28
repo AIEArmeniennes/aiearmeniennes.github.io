@@ -15,7 +15,7 @@ The AIEA has three categories of membership:
 
 ## Becoming a member
 
-To become a member of the AIEA, an application ([application form](/assets/ApplFormAIEAEng.doc), covering letter and curriculum vitae) must be sent to the Secretary of the association, specifying the category of membership. Applications for full and associate membership must be supported in writing by two full members of the AIEA. Applications for student membership do not require support, although the applicant must be a registered student with a focus on Armenian studies.
+To become a member of the AIEA, an application ([application form](/assets/ApplFormAIEAEng.doc), detailed motivation letter and curriculum vitae) must be sent to the Secretary of the association, specifying the category of membership. Applications for full and associate membership must be supported in writing by two full members of the AIEA. Applications for student membership do not require support, although the applicant must be a registered student with a focus on Armenian studies; the motivation letter is especially important in their case.
 
 The Committee may itself propose the candidature of a new member.
 
