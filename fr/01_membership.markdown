@@ -41,10 +41,4 @@ Membership can also be paid for five years:
 
 [Convertisseur de devises](https://www.xe.com/fr/)
 
-Comptes bancaires de l’AIEA:
-
-- Italie: (Dr. Irene Tinti) UniCredit Banca, Filiale Rovato Bonomelli, Conto: 000104600908 (IBAN: IT 54S0200855143000104600908; BIC: UNCRITM1033)
-- France: (Dr. Agnès Ouzounian) PAR 57 216 15 C (IBAN: FR42 2004 1000 0157 2161 5C02 080; BIC: PSSTFRPPPAR); Agnès Ouzounian, 83 rue Estienne d’Orves, F-93110 Rosny-sous-Bois, France
-- Arménie: (Prof. N. Garibian) Ameriabank, agence Moskovyan, 48 Ave. Mashtots, Yerevan, 0002, République d'Arménie, compte 1570028512180100 (SWIFT/BIC: ARMIAM22); banque intermédiaire: Citibank NA, New York (SWIFT/BIC: CITIUS33). [Veuillez noter qu'il s'agit d'un nouveau compte; l'ancien n'est plus utilisé.]
-
-Les membres qui souhaitent payer via PayPal ou qui ne sont pas sûrs peuvent s'adresser à la trésorière, [Dr Irene Tinti](mailto:irene.tinti.82@gmail.com).
+Pour régler leur cotisation, nous prions les membres de suivre les instructions figurant dans le dernier numéro de la _Newsletter_, dans leur lettre de bienvenue, ou encore de contacter la trésorière,  [Dr Irene Tinti](mailto:irene.tinti.82@gmail.com).
