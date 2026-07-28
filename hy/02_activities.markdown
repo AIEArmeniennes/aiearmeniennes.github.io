@@ -52,7 +52,8 @@ permalink: /activities/
 
 |   |   |
 |---|---|
-|2024թ.|Medieval Armenian Sculpture at the Crossroads of Artistic Traditions, online, 11 հոկտեմբերի 2024թ. ([Ծրագիր](/public/programme_online_2024.pdf))|
+|2025թ.|Medieval Armenian Sculpture at the Crossroads of Artistic Traditions II, online, 9 հոկտեմբերի 2025թ. ([Ծրագիր](/public/programme_online_2025.pdf))|
+|2024թ.|Medieval Armenian Sculpture at the Crossroads of Artistic Traditions I, online, 11 հոկտեմբերի 2024թ. ([Ծրագիր](/public/programme_online_2024.pdf))|
 |2024թ.|Places of Faith, Places of Memory – Sacral Topography in the Pre-Modern Caucasus, Vienna, 3–5 հոկտեմբերի 2024թ. ([Ծրագիր](/public/programme_vienna_2024.pdf))|
 |2024թ.|Armenian Literary Horizons: The Readers and Textual Trends in the Early Modern Period, Erevan, 26 հիւլիսի 2024թ. ([Ծրագիր](/public/programme_erevan_2024.pdf))|
 |2023թ.|Spaces, Landscapes and Social Lives of the Cross in Medieval Armenia and Georgia, Fribourg, 6–7 նոյեմբերի 2023թ. ([Ծրագիր](/public/programme_fribourg_2023.pdf))|
