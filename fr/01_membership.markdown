@@ -15,7 +15,7 @@ L'AIEA comprend trois catégories de membres :
 
 ## Comment devenir membre ?
 
-Pour devenir membre de l’AIEA, il faut en adresser la demande ([formulaire de demande](/assets/ApplFormAIEAFr.doc), lettre de motivation et curriculum vitae) au secrétariat de l’association, en précisant la catégorie d’affiliation. Les demandes des membres effectifs et des membres associés doivent être introduites par deux membres effectifs de l’AIEA. Les demandes des membres étudiants ne nécessitent pas d'introduction, mais le candidat doit être étudiant(e) inscrit(e) qui s'intéresse aux études arméniennes.
+Pour devenir membre de l’AIEA, il faut en adresser la demande ([formulaire de demande](/assets/ApplFormAIEAFr.doc), lettre de motivation détaillée et curriculum vitae) au secrétariat de l’association, en précisant la catégorie d’affiliation. Les demandes des membres effectifs et des membres associés doivent être introduites par deux membres effectifs de l’AIEA. Les demandes des membres étudiants ne nécessitent pas d'introduction, mais le candidat doit être étudiant(e) inscrit(e) qui s'intéresse aux études arméniennes; dans ce cas-ci, la lettre de motivation est de grande importance.
 
 Le Comité peut lui-même proposer la candidature d’un nouveau membre.
 
