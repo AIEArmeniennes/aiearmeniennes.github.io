@@ -24,11 +24,6 @@ Although Karabakh was long assumed to speak a single dialect, Karo Davtʻyan (19
 ### A sample text
 The survey that follows is organised around the opening of a folk tale, “The Brothers”, from the village of Khndzristan (“Apple Place”; Azerbaijani Almalı) in the Khojaly district, 23 kilometres north-west of Stepanakert (Azerbaijani Xankəndi). It was recited for me in Stepanakert in the summer of 2001 by A. [full name withheld], then an undergraduate at Artsakh State University. An earlier version, told by Pitsi Asruntsʻ Hakobjan, an 82-year-old resident of the village of Nakhijevanik, is published in Abrahamyan (1973). Dialect forms are given below in Library of Congress transliteration.
 
-#### Armenian script
-**Ախպերք**
-
-Ասում ա` օխտը ախպեր ըն ինում: Չու̈րը փսակվելը սահանց մեծ ախպերը հըվաքում ա ախպորտանցը, թա. «Գյու̈դու̈մ ը՞ք հինչ կա: Մունք միհենգյ իստի սերավ ընք, բայց էքյու̈ց ամեն մինյը մըզանա պիտի մին խըզա̈տակը հանիծուտ պիրի, էն վախտը մեր կնանիքյը հուվ ա՞ գյու̈դու̈մ ու̈րու̈ր նհետ հոնց ըն յոլա քյինա̈: Մունք պիտի ստեղ խոսք տանք, վըեր մունք մեր խելք կնանուց չպիտի տանք, մունք մինչյեվ մեր մըռնելը պիտի պաժանվինք ու̈չ, մեր հոր օջյախը քանդինքյ ու̈չ»:
-
 #### Transcription
 **akhpérkʻ**
 
