@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Origins of the Name Karabakh (Ղարաբաղ)
-listtitle: Origins of the Name Karabakh (Ղարաբաղ)
-key: Origins of the Name Karabakh
+title: Origins of the name Karabakh (Ղարաբաղ)
+listtitle: Origins of the name Karabakh (Ղարաբաղ)
+key: Origins of the name Karabakh
 author: Bert Vaux
 ---
 
