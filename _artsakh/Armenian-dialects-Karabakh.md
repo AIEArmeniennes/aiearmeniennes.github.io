@@ -15,7 +15,7 @@ A probable ancestor of the group, the speech of the ancient province of Siwnikʻ
 
 <figure>
 <img src="/public/artsakh-map.png" alt="Geographic distribution of the Karabakh dialect until September 2023. Map: Wikipedia">
-  <figcaption>Fig. 1: Geographic distribution of the Karabakh dialect until September 2023. Map: [Wikipedia](https://wikipedia.org/wiki/File:Արցախի_բարբառը.png)</figcaption>
+  <figcaption>Fig. 1: Geographic distribution of the Karabakh dialect until September 2023. Map: <a href="https://wikipedia.org/wiki/File:Արցախի_բարբառը.png" target="_blank">Wikipedia</a></figcaption>
 </figure>
 
 ### Internal diversity
